@@ -1,0 +1,27 @@
+.content-price {
+    width: 100%;
+}
+
+.content-price a {
+    text-decoration: none;
+}
+
+.content-price a .price-tour {
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    font-family: Impact, Charcoal, sans-serif;
+    justify-content: center;
+    padding: 0.5rem;
+    border-right: 1px solid rgb(250, 245, 245);
+    border-bottom: 1px solid rgb(250, 245, 245);
+    border-left: 1px solid rgb(250, 245, 245);
+    background: rgb(247, 230, 233);
+    background: linear-gradient(270deg, rgb(245, 245, 245) 21%, rgba(238, 241, 241, 0.02) 100%);
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.content-price a:hover .price-tour {
+    opacity: 0.5;
+}

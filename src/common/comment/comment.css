@@ -1,0 +1,37 @@
+.comment-orther,
+.comment-orther:disabled:focus {
+  background-color: white !important;
+  box-shadow: 0 0 2px black !important;
+}
+
+.comment-img {
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: auto;
+}
+
+.comment-date {
+  font-size: small;
+}
+
+@media only screen and (max-width: 500px) {
+  .rbs-image-425 {
+    margin-top: 20px !important;
+  }
+  .rbs-comment-425 {
+    margin-bottom: 0px;
+  }
+}
+.custome-card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+
+@media only screen and (min-width: 769px) {
+  .custome-image-height {
+    max-height: 85px;
+  }
+}

@@ -1,0 +1,15 @@
+.icon-torate-hover {
+  transition: 0.8s all;
+}
+.icon-torate-hover:hover {
+  transform: rotate(-180deg);
+}
+
+.link-iteam-menu {
+  color: #fbfbfb8c;
+  text-decoration: none;
+}
+.link-iteam-menu :hover {
+  color: white !important;
+  text-decoration: none;
+}

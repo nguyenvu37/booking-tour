@@ -1,0 +1,236 @@
+.warp-box {
+  overflow: hidden;
+}
+
+.box-search {
+  /* transform: translate(0, -69px); */
+  transform: translate(0, -79px);
+  transition: all 0.4s;
+  /* z-index: 1; */
+}
+
+.border-search {
+  padding: 25px;
+  transition: all 1s;
+  transform: translate(0, -270px);
+  background-color: white;
+  /* position: relative; */
+}
+/* .warp-box:hover .black-warp {
+  background: linear-gradient(to top, #000000 42%, #ffffff 100%);
+}
+
+.warp-box:hover .box-search {
+  transform: translate(0, -300px);
+}
+*/
+
+.search-box {
+  position: relative;
+}
+
+.warp-box:hover {
+  box-shadow: 0px 7px 9px black;
+}
+
+.black-warp {
+  /* z-index: 3; */
+  height: 550px;
+  background: linear-gradient(to top, #000000 42%, #ffffff 100%);
+  background-image: url("../../../image/dulichvn1.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.image-bg {
+  height: 550px;
+}
+
+/* .search-box:hover .image-bg {
+  background-color: #000;
+  opacity: 0.5;
+} */
+.search-box .image-bg {
+  background-color: #1a3e63;
+  opacity: 0.5;
+}
+
+.n3-form-search {
+  width: 100%;
+  height: 85px;
+  position: absolute;
+  bottom: -80px;
+}
+
+.n3-form-search .frame-search {
+  margin: 0 auto;
+  display: table;
+  margin-top: -95px;
+}
+
+.n3-form-search .o-dl {
+  background-color: #fff;
+  padding: 15px;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+  border: 1px solid #ececec;
+  cursor: pointer;
+  float: left;
+  margin-right: 30px;
+}
+
+.n3-form-search .frame-search .mg-b {
+  margin-bottom: 20px;
+}
+
+.iconT-i-c1 {
+  background-position: -269px -38px;
+  width: 41px;
+  height: 42px;
+  display: block;
+  margin: 0 auto 0;
+}
+
+.n3-form-search .text1 {
+  text-transform: uppercase;
+  border-bottom: 1px dashed #4e4b4a;
+  padding-bottom: 10px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.n3-form-search .text2 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.n3-form-search .text-dltn {
+  color: #015196;
+}
+
+.n3-form-search {
+  width: 100%;
+  height: 85px;
+  position: absolute;
+  bottom: -80px;
+}
+
+.n3-form-search .frame-search {
+  margin: 0 auto;
+  display: table;
+  margin-top: -95px;
+}
+
+.n3-form-search .o-dl {
+  background-color: #fff;
+  padding: 15px;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  display: table;
+  text-align: center;
+  border: 1px solid #ececec;
+  cursor: pointer;
+  float: left;
+  margin-right: 50px;
+}
+
+.o-dl.dltn:hover {
+  box-shadow: 0px 0px 4px 0px black;
+}
+
+.n3-form-search .frame-search .mg-b {
+  margin-bottom: 20px;
+}
+
+.iconT-i-c1 {
+  background-position: -269px -38px;
+  width: 41px;
+  height: 42px;
+  display: block;
+  margin: 0 auto 0;
+}
+
+.n3-form-search .text1 {
+  text-transform: uppercase;
+  border-bottom: 1px dashed #4e4b4a;
+  padding-bottom: 10px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.n3-form-search .text2 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.n3-form-search .text-dltn {
+  color: #015196;
+}
+
+.n3-form-search .text-dltn:hover {
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 767px) {
+  .n3-form-search {
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    bottom: -115px;
+  }
+
+  .n3-form-search .o-dl {
+    background-color: #fff;
+    padding: 15px;
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    display: table;
+    text-align: center;
+    border: 1px solid #ececec;
+    cursor: pointer;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .iconT-i-c1 {
+    background-position: -269px -38px;
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: 0 auto 0;
+  }
+
+  .n3-form-search .text1 {
+    text-transform: uppercase;
+    border-bottom: 1px dashed #4e4b4a;
+    padding-bottom: 5px;
+    font-size: 0.7rem;
+    color: #000;
+    margin-bottom: 5px;
+  }
+
+  .n3-form-search .text2 {
+    font-weight: bold;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+  }
+}
+
+@media only screen and (max-width: 446px) {
+  .n3-form-search .o-dl {
+    padding: 15px;
+    width: 120px;
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 370px) {
+  .n3-form-search .o-dl {
+   display: none;
+  }
+}

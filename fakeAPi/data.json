@@ -1,0 +1,936 @@
+{
+  "tours": [
+    {
+      "id": "1",
+      "image": "https://www.vietnambooking.com/wp-content/uploads/2020/03/chuabaidinh.jpg",
+      "city": "Ninh Bình",
+      "country": "Việt Nam",
+      "timeJoin": "5 ngày 4 đêm",
+      "price": 5000000,
+      "calendar": "Tháng 3",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1578502800000,
+        1579280400000,
+        1614877200000,
+        1628010000000,
+        1629824400000,
+        1636304400000,
+        1647104400000
+      ],
+      "tag": [
+        "ninhbinh",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "2",
+      "image": "https://www.vietnambooking.com/wp-content/uploads/2019/11/bach-dinh.jpg",
+      "city": "Vũng Tàu",
+      "country": "Việt Nam",
+      "timeJoin": "3 ngày 2 đêm",
+      "price": 2000000,
+      "calendar": "Tháng 4",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1579798800000,
+        1582563600000,
+        1591290000000,
+        1639760400000,
+        1642870800000,
+        1652029200000,
+        1662742800000
+      ],
+      "tag": [
+        "vietnam",
+        "vungtau",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "3",
+      "image": "https://dalattrongtoi.com/media/upload/images/HO%20VO%20CUC.png",
+      "city": "Đà Lạt",
+      "country": "Việt Nam",
+      "timeJoin": "3 ngày 2 đêm",
+      "price": 6000000,
+      "calendar": "Tháng 5",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1584896400000,
+        1642093200000,
+        1580576400000,
+        1633280400000,
+        1671382800000,
+        1583686800000,
+        1611334800000
+      ],
+      "tag": [
+        "dalat",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "4",
+      "image": "https://tuanvinhtravel.com/wp-content/uploads/2019/12/hue-travel-traveltoindochina-1558085779-1400x467.png",
+      "city": "Huế",
+      "country": "Việt Nam",
+      "timeJoin": "3 ngày 2 đêm",
+      "price": 3000000,
+      "calendar": "Tháng 8",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1586883600000,
+        1595437200000,
+        1614186000000,
+        1618160400000,
+        1665162000000,
+        1670518800000,
+        1671123600000
+      ],
+      "tag": [
+        "vietnam",
+        "hue",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "5",
+      "image": "https://saigontourist.net/uploads/destination/NuocNgoai/Thailand/Pattaya/koh-larn-island_187552616.jpg",
+      "city": "JOMTIEN",
+      "country": "Thái Lan",
+      "timeJoin": "3 ngày 2 đêm",
+      "price": 6000000,
+      "calendar": "Tháng 8",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1588784400000,
+        1613062800000,
+        1618851600000,
+        1632070800000,
+        1634317200000,
+        1652634000000,
+        1657645200000
+      ],
+      "tag": [
+        "thailan",
+        "jomtien",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "6",
+      "image": "https://www.saigontourist.net/uploads/destination/NuocNgoai/singapore/SEA-AQUARIUM-SINGAPORE_387303955.jpg",
+      "city": "Sentosa",
+      "country": "SINGAPORE",
+      "timeJoin": "7 ngày 2 đêm",
+      "price": 12000000,
+      "calendar": "Tháng 8",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1629565200000,
+        1624554000000,
+        1627750800000,
+        1653325200000,
+        1584810000000,
+        1623776400000,
+        1662310800000
+      ],
+      "tag": [
+        "singapore",
+        "sentosa",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "7",
+      "image": "https://saigontourist.net/uploads/destination/NuocNgoai/DaiLoan/Yangmingshan_1052724335.jpg",
+      "city": "CAO HÙNG",
+      "country": "Đài Loan ",
+      "timeJoin": "4 ngày 2 đêm",
+      "price": 12000000,
+      "calendar": "Tháng 5",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1587859200000,
+        1588204800000,
+        1590796800000,
+        1593475200000,
+        1596067200000,
+        1595635200000,
+        1593734400000
+      ],
+      "tag": [
+        "dailoan",
+        "caohung",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "8",
+      "image": "https://saigontourist.net/uploads/destination/NuocNgoai/HanQuoc/Gyeongbok_496628263.jpg",
+      "city": "INCHEON",
+      "country": "Hàn Quốc",
+      "timeJoin": "4 ngày 2 đêm",
+      "price": 18000000,
+      "calendar": "Tháng 2",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1587747600000,
+        1613667600000,
+        1635958800000,
+        1645203600000,
+        1660496400000,
+        1664989200000,
+        1665075600000
+      ],
+      "tag": [
+        "hanquoc",
+        "incheon",
+        "hot",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "9",
+      "image": "https://saigontourist.net/uploads/destination/NuocNgoai/Thailand/Koh-Hey-Phuket_716208781.jpg",
+      "city": "PHUKET",
+      "country": "Thái Lan",
+      "timeJoin": "4 ngày 3 đêm",
+      "price": 12000000,
+      "calendar": "Tháng 3",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1595610000000,
+        1609434000000,
+        1612112400000,
+        1613667600000,
+        1638637200000,
+        1645290000000,
+        1671382800000
+      ],
+      "tag": [
+        "phuket",
+        "thailan",
+        "hot",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "10",
+      "image": "https://saigontourist.net/uploads/destination/NuocNgoai/Indonesia/Tanah-Lot-Temple-Bali-Indonesia.jpg",
+      "city": "BALI",
+      "country": "INDONESIA",
+      "timeJoin": "5 ngày 4 đêm",
+      "price": 15000000,
+      "calendar": "Tháng 8",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1582304400000,
+        1603213200000,
+        1612976400000,
+        1634230800000,
+        1639674000000,
+        1640019600000,
+        1645722000000
+      ],
+      "tag": [
+        "bali",
+        "indonesia",
+        "hot",
+        "foreign"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "11",
+      "image": "https://travel.com.vn/Images/tour/tfd_190409041122_431515.jpg",
+      "city": "Huế",
+      "country": "Việt Nam",
+      "timeJoin": "5 ngày 3 đêm",
+      "price": 250000,
+      "calendar": "Tháng 6",
+      "transit": [
+        "Máy Bay",
+        "Xe Hơi"
+      ],
+      "timeStart": [
+        1582304400000,
+        1603213200000,
+        1612976400000,
+        1634230800000,
+        1639674000000,
+        1640019600000,
+        1645722000000
+      ],
+      "tag": [
+        "hue",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "12",
+      "image": "https://instagram.fdad3-3.fna.fbcdn.net/v/t51.2885-15/e35/62440025_332334930769404_4614871843708959533_n.jpg?_nc_ht=instagram.fdad3-3.fna.fbcdn.net&_nc_cat=100&_nc_ohc=1T3TnsY2hm0AX8THuFj&oh=a3fb6f5a7207e8dc2fce7c05b150f841&oe=5ED0F518",
+      "city": "Đà Lạt",
+      "country": "Việt Nam",
+      "timeJoin": "5 ngày 4 đêm",
+      "price": 4000000,
+      "calendar": "Tháng 6",
+      "transit": [
+        "Xe Hơi",
+        "Xe Khách"
+      ],
+      "timeStart": [
+        1584896400000,
+        1642093200000,
+        1580576400000,
+        1633280400000,
+        1671382800000,
+        1583686800000,
+        1611334800000
+      ],
+      "tag": [
+        "dalat",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "14",
+      "image": "https://instagram.fdad3-1.fna.fbcdn.net/v/t51.2885-15/e35/92388830_236294254180695_7003961045310726214_n.jpg?_nc_ht=instagram.fdad3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=aS2RLpr8rpgAX-gI4un&oh=ebc2226112d6b8ba85095b3b35c45e67&oe=5ECE333D",
+      "city": "Đà Lạt",
+      "country": "Việt Nam",
+      "timeJoin": "5 ngày 4 đêm",
+      "price": 4000000,
+      "calendar": "Tháng 8",
+      "transit": [
+        "Xe Hơi",
+        "Xe Khách"
+      ],
+      "timeStart": [
+        1584896400000,
+        1642093200000,
+        1580576400000,
+        1633280400000,
+        1671382800000,
+        1583686800000,
+        1611334800000
+      ],
+      "tag": [
+        "dalat",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    },
+    {
+      "id": "15",
+      "image": "https://instagram.fdad3-3.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/61406165_403401900254747_1862212665196696901_n.jpg?_nc_ht=instagram.fdad3-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=GrHf30uekpEAX9KOgfF&oh=fc1e7ea3c712207cda941da209768b93&oe=5ED08824",
+      "city": "Đà Lạt",
+      "country": "Việt Nam",
+      "timeJoin": "4 ngày 3 đêm",
+      "price": 4000000,
+      "calendar": "Tháng 7",
+      "transit": [
+        "Xe Hơi",
+        "Xe Khách"
+      ],
+      "timeStart": [
+        1584896400000,
+        1642093200000,
+        1580576400000,
+        1633280400000,
+        1671382800000,
+        1583686800000,
+        1611334800000
+      ],
+      "tag": [
+        "dalat",
+        "vietnam",
+        "discount"
+      ],
+      "time": 1589557556174
+    }
+  ],
+  "Users": [
+    {
+      "id": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "firtName": "anh",
+      "lastName": "anh",
+      "usersName": "Anh.Ho12",
+      "password": "anh123",
+      "role": "menber",
+      "gmail": "admin@gmail.com.vn"
+    },
+    {
+      "id": "bbd337b1-3e37-44ee-b929-7ceb1e15ed1a",
+      "firtName": "nguyen",
+      "lastName": "vu",
+      "usersName": "anhvunguyen",
+      "password": "anhvu11",
+      "role": "menber",
+      "gmail": "abc@abc.com"
+    },
+    {
+      "id": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "firtName": "abc",
+      "lastName": "abc",
+      "usersName": "abc",
+      "password": "anhvu22",
+      "role": "menber",
+      "gmail": "abc@gmail.com"
+    },
+    {
+      "id": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "firtName": "Admin",
+      "lastName": "Admin",
+      "usersName": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "gmail": "admin111@gmail.com"
+    },
+    {
+      "id": "5ae58e3a-4761-4245-9c15-14815a7df4db",
+      "firtName": "nguyenanh",
+      "lastName": "vu",
+      "usersName": "nguyenvu22",
+      "password": "anhvu22",
+      "role": "menber",
+      "gmail": "nguyenvu22@gmail.com"
+    },
+    {
+      "id": "d19ebd4d-aed8-4fbe-afc4-ee39af28b6bc",
+      "firtName": "nguyễn ",
+      "lastName": "bao",
+      "usersName": "nguyen bao",
+      "password": "anhvu22",
+      "role": "menber",
+      "gmail": "nguyenbao@gamil.com"
+    }
+  ],
+  "Comments": [
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "26cba09a-50c0-483d-b551-739acea31b88",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "ok  rất ổn ",
+      "contexTitle": "tour hay ổn",
+      "idTour": "7",
+      "time": 1587893262408
+    },
+    {
+      "id": "53b4ce86-cd4c-4777-9126-0cc7e0c6f5c8",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "002",
+      "contexTitle": "test",
+      "idTour": "11",
+      "time": 1587902157211
+    },
+    {
+      "id": "b0615f0f-d83c-482f-ae24-548d4d0d8647",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 4,
+      "context": "002",
+      "contexTitle": "003",
+      "idTour": "11",
+      "time": 1587902166394
+    },
+    {
+      "id": "54aae40c-b448-48eb-9c8f-81c580875f85",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 5,
+      "context": "rất  ổn ",
+      "contexTitle": "10 điểm hài  lòng",
+      "idTour": "12",
+      "time": 1587905123799
+    },
+    {
+      "id": "ca969313-a2b6-4d7a-8787-7ac5ec8f4de9",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 5,
+      "context": "ok",
+      "contexTitle": "đẹp",
+      "idTour": "14",
+      "time": 1587907300866
+    },
+    {
+      "id": "4356d0a7-a493-4c71-9d11-ac0b81706424",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 5,
+      "context": "abc",
+      "contexTitle": "abc",
+      "idTour": "6",
+      "time": 1587991929410
+    },
+    {
+      "id": "cbf64482-a2f8-4d00-937d-b6f57c96f9d9",
+      "idUser": "5a0eab9e-6c73-4706-a434-725c9086a19f",
+      "userPost": "Anh Ho",
+      "starPoin": 3,
+      "context": "abc",
+      "contexTitle": "tệ",
+      "idTour": "6",
+      "time": 1587992026852
+    },
+    {
+      "id": "3ee6c1eb-07df-42d8-9ef0-16ff276e4e37",
+      "idUser": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "userPost": "nguyen vu",
+      "starPoin": 4,
+      "context": "ổn\n",
+      "contexTitle": "ổn",
+      "idTour": "12",
+      "time": 1588459838374
+    },
+    {
+      "id": "1b2a2be5-251c-4b71-af13-9fa41e3d482b",
+      "idUser": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userPost": "anh anh",
+      "starPoin": 4,
+      "context": "thich 4 *",
+      "contexTitle": "bố thính bố cho 5*",
+      "idTour": "9",
+      "time": 1588755633571
+    },
+    {
+      "id": "86009e24-1915-4203-9343-c4a325e35416",
+      "idUser": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userPost": "anh anh",
+      "starPoin": 4,
+      "context": "4 *",
+      "contexTitle": "ko gì hay ho",
+      "idTour": "15",
+      "time": 1588766070715
+    },
+    {
+      "id": "24b2b3ca-bf0b-43c8-a5f8-3b633367a160",
+      "idUser": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "userPost": "nguyen vu",
+      "starPoin": 5,
+      "context": "tour khá hay. mình rất thích",
+      "contexTitle": "tốt",
+      "idTour": "2",
+      "time": 1589212619067
+    },
+    {
+      "id": "123d1eed-9b81-4bc4-8752-758649ac32a0",
+      "idUser": "bbd337b1-3e37-44ee-b929-7ceb1e15ed1a",
+      "userPost": "nguyen vu",
+      "starPoin": 5,
+      "context": "giá thành khá rẻ nhưng mang lại trải nghiệm cực tốt.\ncho tour 5 * ",
+      "contexTitle": "tour hay",
+      "idTour": "2",
+      "time": 1589212747262
+    }
+  ],
+  "Detail": [
+    {
+      "id": "1",
+      "idTour": "1",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Ninh Bình - cảnh vật hữu tình xứng danh tiên cảnh</h3><div class= \"tourSchedule \"><p>Ninh Bình với nhiều danh thắng đẹp cả về cảnh quan và ý nghĩa lịch sử, đã trở thành điểm đến được nhiều du khách lựa chọn. Nói nơi đây là 1 Việt Nam thu nhỏ quả không sai bởi nó hòa quyện toàn bộ đặc trưng văn hóa, thiên nhiên và lịch sử. Cùng chúng tôi khám phá điểm đặc trưng này, tại sao không?</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>Đến vùng đất Cố đô đừng bỏ lỡ... </p><p>- <strong> Chùa Bái Đính:</strong>Ngôi chùa lớn nhất và nắm giữ nhiều kỷ lục nhất Việt Nam.</br><img src=\"https://vcdn-dulich.vnecdn.net/2018/03/02/3-1519980885_1200x0.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Du Lịch Sinh Thái Tràng An: </strong>Phong cảnh thiên nhiên hoang sơ, tuyệt đẹp của Tràng An đã được UNESCO công nhận là di sản thiên nhiên và di sản văn hóa thế giới.Khung cảnh nơi đây được tạo nên từ dòng sông chạy uốn lượn qua các dãy núi đá vôi, tạo thành vô vàn những hang động tự nhiên huyềnảo, kỳ bí.</br><img src=\"https://photo-1-baomoi.zadn.vn/w1000_r1/2019_12_11_232_33280104/de91cab633f6daa883e7.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Hang Múa: </strong>từ trên đỉnh núi Múa có thể ngắm toàn cảnh khu vực Tam Cốc với vẻ đẹp được khách Tây ca ngợi đẹp không kém những điểm ngắm từ trêncao khác tại Việt Nam như là đèo Mã Pí Lèng (Hà Giang), Lìm Mông(Yên Bái) hay Mai Châu (Hoà Bình).</br><img src=\"https://dulichkhampha24.com/wp-content/uploads/2019/12/hang-mua-ninh-binh-6.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "2",
+      "idTour": "2",
+      "conten": "<h3 class= \"text-primary mt-4 \">Tổng quan du lịch Vũng Tàu</h3><div class= \"tourSchedule \"><p>Cách trung tâm thành phố Hồ Chí Minh chỉ khoảng 3 tiếng lái xe, với đường bờ biển trải dài 20km, Vũng Tàu là một trong những điểm đến yêu thích của du khách phía Nam. Nằm nhô hẳn ra khỏi đất liền như một dải đất, từ nơi đây, người ta có thể nhìn biển Đông cả khi trời mọc lẫn lúc hoàng hôn. Bên cạnh những giá trị cảnh quan thiên nhiên, Vũng Tàu còn là miền đất có truyền thống văn hóa lịch sử lâu đời.</p><p>Đến với Vũng Tàu bạn sẽ có cảm giác bình yên, dễ chịu với những con đường rộng rãi, thoáng đãng. Dưới là biển xanh, trên là những ngọn núi to, núi nhỏ, cùng những ngôi chùa thanh tịnh… Tất cả tạo nên một Vũng Tàu đầy ma lực, một thành phố Vũng Tàu không chỉ hiền hòa bình dị mà còn vô vàn những danh lam thắng cảnh nổi tiếng.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Khí hậu</h3><p>Bà Rịa – Vũng Tàu thuộc vùng khí hậu nhiệt đới gió mùa, một năm chia hai mùa rõ rệt: Mùa mưa bắt đầu từ tháng 5 đến tháng 10, thời gian này có gió mùa Tây Nam; mùa khô bắt đầu từ tháng 11 đến tháng 4 năm sau, thời gian này có gió mùa Đông Bắc. Nhiệt độ trung bình hàng năm là 27°C, tháng thấp nhất khoảng 24,8°C, tháng cao nhất khoảng 28,6°C.</p><h3 class= \"text-primary mt-4 \">Thời điểm du lịch Vũng Tàu</h3><p>Ở Vũng Tàu quanh năm là mùa du lịch vì nhiệt độ không khi nào quá lạnh hay quá nóng. Bạn chỉ cần theo dõi bản tin dự báo thời tiết để tránh du lịch Vũng Tàu khi có mưa bão. Ngoài ra, vào ngày cuối tuần và các dịp lễ tết, Vũng Tàu thu hút rất đông khách du lịch, giá cả các dịch vụ đều tăng cao.</p><div class= \"tourSchedule \"><p>Đến vùng đất Cố đô đừng bỏ lỡ...</p><p>- <strong> Bãi Sau (Thùy Vân, Thùy Dương): </strong>Nằm ở phía Nam của Vũng Tàu, bãi Sau có bãi cát dài phẳng và bờ biển khá đẹp, nước biển trong. Một số resort nổi tiếng ở đây như Long Cung (bãi Thủy Tiên), Lan Rừng với khung cảnh lãng mạn…Theo kinh nghiệm du lịch Vũng Tàu thì Bãi Sau đẹp hơn Bãi Trước với biển trong hơn, sóng vừa phải, lại tập trung nhiều khách sạn và dịch vụ ăn uống, vui chơi.<img class=\"mt-2\" src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/dua-bai-sau.jpg\"></p><p>- <strong> Bãi Trước: </strong>Nước biển không trong nên rất ít người chọn tắm ở Bãi Trước. Tuy nhiên, từ lúc chiều tà đến khi đêm xuống thì đây là nơi tập trung vui chơi của khách du lịch. Bãi Trước có rất nhiều khu vui chơi, giải trí, cao ốc và các khu mua bán đông đúc.Bạn có thể thuê một chiếc xe đạp dạo hóng gió và hít thở không khí trong lành của thành phố biển. Hoặc dạo bộ ở khu vực trung tâm ngắm hoàng hôn dưới những hàng dừa chạy dọc theo bờ biển.Còn nếu bạn thích những bãi biển yên bình, không quá phổ biến thì Vũng Tàu cũng có không ít bãi tắm khác như Bãi Dứa, Bãi Dâu, Vọng Nguyệt, Chí Linh, Đồi Nhái…<img class=\"mt-2\" src=\"https://mytourcdn.com/upload_images/Image/Minh%20Hoang/Linh%201/21/8/bai-truoc-1.jpg\"></p><p>- <strong>Tượng chúa Kito: </strong>Tọa lạc trên núi Nhỏ, tượng Chúa Ki-tô đứng trên độ cao 170 m, cao 32 m và cánh tay sải dài 18.3 m. Bên trong tượng có 133 bậc thềm để bạn có thể leo lên vai Chúa, nhìn ngắm toàn cảnh Vũng Tàu trên bức tượng Chúa cao nhất châu Á.<img class=\"mt-2\" src=\"https://i.pinimg.com/originals/9f/28/e9/9f28e96d3bb02d69e2509acbada11f95.jpg\"></p><p>- <strong>Bạch Dinh (Villa Blanche): </strong>Tòa nhà được xây dựng theo kiến trúc La Mã, dựa lưng vào núi Lớn này là dinh thự nghỉ mát Toàn quyền Đông Dương Paul Doumer tặng cho con gái. Đây là một trong những địa điểm tham quan thu hút khách du lịch vì trưng bày 19 khẩu thần công và rất nhiều đồ cổ có giá trị.<img class=\"mt-2\" src=\"https://thuenhadulich.vn/wp-content/uploads/2019/06/kinh-nghiem-du-lich-vung-tau-danh-cho-cap-doi-2019-3.jpg\"></p><p>- <strong>Hải Đăng: </strong>Ngọn hải đăng Vũng Tàu được xây dựng từ năm 1862, theo thiết kế kiểu tháp hình trụ cao 18 m. Đường lên hải đăng là đường núi quanh co, hai bên là rừng cây phủ bóng. Đặc biệt nhất là còn có quán Cô Tiên với hai món trứ danh là trứng lòng đào và sữa chua dẻo mà giá lại cực phải chăng.<img class=\"mt-2\" src=\"https://dulichviet.net.vn/wp-content/uploads/2019/07/ngon-hai-dang.jpg\"></p></div>"
+    },
+    {
+      "id": "3",
+      "idTour": "3",
+      "conten": "<h3 class= \"text-primary mt-4 \">Tổng quan du lịch Đà Lạt</h3><div class= \"tourSchedule \"><p>Đà Lạt là thủ phủ của tỉnh Lâm Đồng. Với độ cao 1.500 m trên mặt nước biển, Đà Lạt tiết trời mát lạnh và là nơi nghỉ dưỡng lý tưởng ở khu vực miền Nam. Từng một thời nổi tiếng với các điểm tham quan như Thung lũng Tình Yêu, Hồ Than Thở, Đồi Thông Hai Mộ, Thác Voi…, Đà Lạt ngày nay không còn giữ được vẻ hoang sơ như xưa. Các điểm tham quan chính hiện nay khi du lịch Đà Lạt gồm có Hồ Xuân Hương, Đỉnh Langbiang, Dinh Bảo Đại, Biệt Điện Trần Lệ Xuân, Thiền Viện Trúc Lâm, Hồ Tuyền Lâm, nhà ga Đà Lạt (Nhà ga Trại Mát)… Chỉ cách Sài Gòn chừng 300km, thành phố Đà Lạt là nơi nghỉ dưỡng tuyệt vời, giúp du khách thoát khỏi cái oi bức nóng nực của vùng đồng bằng Nam Bộ.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Vườn Thượng Uyển Bay Đà Lạt: </strong>Cách trung tâm thành phố Đà Lạt khoảng 50km, thác Pongour còn được biết đến với danh hiệu “Nam thiên đệ nhất thác”, gây ấn tượng mạnh mẽ với du khách bởi vẻ đẹp kì vĩ của mình. Tuy một phần của thác đã được sử dụng cho mục đích thủy điện, nhưng với những dòng chảy bậc thềm đặc trưng, thác vẫn là nơi dừng chân lý tưởng của nhiều du khách. Đây là một trong những địa điểm du lịch Đà Lạt được rất nhiều du khách lựa chọn khi tham quan tuyến đường theo hướng phía Nam thành phố Đà Lạt.<img class=\"mt-2\" src=\"https://vyctravel.com/libs/upload/ckfinder/images/da_lat/vuon%20thuong%20uyen%20bay%204.jpg\"></p><p>- <strong> Thác Pongour:</strong>Phong cảnh thiên nhiên hoang sơ, tuyệt đẹp của Tràng An đã đượcUNESCO công nhận là di sản thiên nhiên và di sản văn hóa thế giới.Khung cảnh nơi đây được tạo nên từ dòng sông chạy uốn lượn qua các dãy núi đá vôi, tạo thành vô vàn những hang động tự nhiên huyền ảo, kỳ bí.<img class=\"mt-2\" src=\"https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-da-lat.jpg\"></p><p>- <strong> Thác Datanla: </strong>Nằm giữa cung đèo Prenn, thác Datanla được biết đến là một trong những con thác vẫn còn giữ được nét đẹp hoang sơ. Nước đổ xuống từng tầng bậc đá chênh nhau khiến con thác trông từ xa như một tấm lụa trắng ngần giữa trời. Khi tham quan thác Datanla, du khách có cơ hội được trải nghiệm việc di chuyển bằng xe trượt, luồn lách giữa rừng thông và hoa cỏ thiên nhiên tươi đẹp. Đây cũng là một trong những địa điểm du lịch được rất nhiều du khách lựa chọn khi tham gia tour nội thành Đà Lạt 1 ngày.<img class=\"mt-2\" src=\"https://happydaytravel.com/wp-content/uploads/2019/03/image5-compressed.jpg\"></p><p>- <strong> Thiền viện Trúc Lâm: </strong>Thiền Viện Trúc Lâm Đà Lạt là ngôi thiền viện theo thiền phái Trúc Lâm Yên Tử được xây dựng tại Đà Lạt và là thiện viện lớn nhất Việt Nam hiện nay. Bên cạnh đó ngôi thiền viện này cũng là một trong những điểm tham quan thu hút nhiều du khách nhất tại Đà Lạt.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/08/thien-vien-truc-lam-phuong-hoang-da-lat.jpg\"></p><p>Tọa lạc trên núi Phụng Hoàng, phia dưới là hồ Tuyền Lâm quanh năm thơ mộng và cách trung tâm thành phố Đà Lạt 5km về hướng Nam. Thiền Viện Trúc Lâm Đà Lạt được khởi công xây dựng từ đầu năm 1993 đến cuối năm 1994 thì hoàn thành các giải đoạn cơ bản. Bản thiết kế của ngôi thiền viện có sự giúp đỡ của kiến trúc sư nổi tiếng Việt Nam cũng như thế giới, kiến trúc sư Ngô Viết Thụ và hai kiến trúc sư khác là triến trúc sư Vũ Xuân Hùng và Trần Đức Lộc. Tất cả ý tưởng ban đầu đều do hòa thưởng Thích Thanh Từ quy hoạch và kêu gọi phật tử mọi miền đóng góp.</p><p>Tổng quan Thiền Viện Trúc Lâm được chia làm 3 khu vực chính, đó là khu vực ngoại viện bao gồm khuôn viên cây cảnh, chánh điện, sân đậu xe và hồ Tịnh Tâm. Khu vực nội viện tăng tọa lạc bên phải trước chánh điện, đây là nơi tu tấp của các Nam tăng du khách thập phương không được phép vào tham quan. Khu vực nội viện Ni nằm bên phải chánh điện, phía trên nội viện tăng, đây là khu vực tu tập của các nữ chư tăng và cũng không có du khách thập phương tham quan. Thiền Viện Trúc Lâm được sáng lập bởi hòa thượng Thích Thanh Từ và ông cũng chính là trụ trì đầu tiên của ngôi Thiền Viện này, những năm gần đây do tuổi già sức yếu, hòa thượng Thích Thanh Từ đã trở về Thiện Viện Trúc Lâm Vũng Tàu để an dưỡng và giao trọng trách lại cho hòa thượng Thích Thông Phương quản lý, đây cũng là đệ tử thân cận nhất của ngài Thích Thanh Từ.</p><p>- <strong> Nhà thờ Con Gà: </strong>Nhà thờ con Gà Đà Lạt còn có tên gọi khác là nhà thờ chánh tòa, đây là nhà thờ công giáo lớn nhất tại thành phố Đà Lạt hiện nay. Ngoài chức năng là một nhà thờ tôn giáo, nơi này còn là một điểm tham quan du lịch hấp dẫn đối với rất nhiều du khách gần xa.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/02/nha-tho-con-ga.jpg\"></p><p>Tọa lạc tại đường Trần Phú trung tâm của thành phố Đà Lạt, nhà thờ con Gà là một trong những công trình kiến trúc cổ xưa đầu tiên được người Pháp xây dựng tại Đà Lạt.</p><p>Tổng quan về kiến trúc của nhà thờ con Gà theo trường phái Roma ở Châu Âu, đây là một dạng kiến trúc tiêu biểu cho trường phái kiến trúc Roman. Móng của nhà thờ con Gà được thiết kế theo hình chữ thập dài 65m, chiều rộng 14, và tháp chuông phía trước nhà thờ cao 47m, trên đỉnh của tháp chuông có gắn một bức tượng Gà trống Goloa biểu tượng của nước Pháp cao 60cm, đây cũng chính là lý do nhà thờ này lại có tên gọi là nhà thờ con Gà. Ngoài ra còn một điều đặc biệt hơn nữa, nếu đứng trên tháp chuông của nhà thờ bạn có thể nhìn được toàn cảnh thành phố Đà Lạt, núi Langbiang và các khu vực lân cận.Bên trong thánh đường của nhà thờ được chia làm 3 gian, gian ở giữa được sắp xếp các dãy bàn ghế cầu nguyện, chánh điện và hai bên hông nhà thờ được thiết kế các bàn ghế phụ và lối đi. Trên trần nhà giáp mái là những tấm kính màu, những tấm kính này đều được đặt mua trực tiếp từ Pháp mang về phục vụ cho việc xây dựng nhà thờ, anh sáng chiếu qua những tấm kính làm cho khung cảnh của thánh đường thêm phần mở ảo, đẹp mắt.Mỗi dịp giáng sinh về, nhà thờ chánh tòa Đà Lạt lại lung linh huyền ảo, thu hút hàng ngàn du khách đến tham dự. Những ngày thường bạn có thể ghé thăm nhà thờ miễn phí, nếu may mắn đi đúng vào thời gian làm lễ, bạn có thể vào thẳng khu thánh đường để chiêm ngưỡng toàn bộ kiến trúc bên trong của nhà thờ.</p><p>- <strong> Trường cao đẳng sư phạm Đà Lạt: </strong>Được người Pháp xây dựng và thành lập vào năm 1927, trường cao đẳng sư phạm Đà Lạt đến nay vẫn là một trong những ngôi trường có kiến trúc đẹp nhất Việt Nam. Vẻ đẹp thơ mộng đậm chất châu Âu cổ điển của nơi đây thu hút vô vàn lượng du khách ghé thăm mỗi năm. Ngoài ra, đây cũng là một trong những biểu tượng nổi tiếng mỗi khi ai đó nhắc về Đà Lạt.<img class=\"mt-2\" src=\"https://toquoc.mediacdn.vn/2018/11/30/truong-cao-dang-su-pham-da-lat-noi-u-hoai-cua-thieu-nu-xinh-dep-ngu-quen-tren-cao-nguyen-mo-suong5-1543588050889764954102.jpg\"></p><p>- <strong> Bảo tàng Lâm Đồng: </strong>Nếu bạn là người yêu thích những giá trị văn hóa của Đà Lạt, thì Bảo tàng Lâm Đồng là nơi thích hợp dành cho bạn. Nơi đây hiện lưu giữ rất nhiều những hiện vật truyền thống cũng như những vẻ đẹp văn hóa bao đời nay của người dân Lâm Đồng.<img class=\"mt-2\" src=\"http://vietnamtourism.gov.vn/images/2016/anhInternet/TrienlammythuatDNB.jpg\"></p><p>- <strong> Vườn hoa thành phố: </strong>Là điểm đến nổi tiếng bậc nhất của thành phố Đà Lạt, bên cạnh hồ Xuân Hương trữ tình là vườn hoa của thành phố. Rất nhiều loại hoa đẹp, hoa quý của Đà Lạt đều rực rỡ khoe sắc ở nơi đây, mang đến cho thành phố những mảng màu tươi sáng và tuyệt sắc. Bên trong vườn hoa, rất nhiều tiểu cảnh được dựng lên bởi bàn tay khéo léo của con người, giúp du khách lưu lại những khoảnh khắc ấn tượng và đẹp nhất.<img class=\"mt-2\" src=\"https://dalattrongtoi.com/media/upload/images/bai-viet/V%C6%B0%E1%BB%9Dn%20Hoa%20Th%C3%A0nh%20Ph%E1%BB%91%20%C4%90%C3%A0%20L%E1%BA%A1t%20(2).jpg\"></p><p>- <strong> Hồ Than Thở: </strong>Đẹp như bức thủy mặc ai lỡ đánh rơi, hồ Than Thở luôn là biểu tượng đẹp khi nhắc đến Đà Lạt. Người dân sinh sống nơi đây còn gọi hồ bằng một cái tên khác thanh khiết hơn là - hồ Sương Mai. Sở dĩ hồ mang cái tên như thế vì mỗi buổi sáng nơi đây chẳng khác chi chốn tiên cảnh, khi những làn sương bảng lảng vẫn chưa tan, rong chơi trên mặt nước, tạo nên nét đẹp bồng bềnh đầy hư ảo. Đến với hồ Than Thở, du khách còn có cơ hội tìm hiểu về những câu chuyện gắn với địa danh này.<img class=\"mt-2\" src=\"https://dulichkhampha24.com/wp-content/uploads/2019/11/ho-than-tho-da-lat-1.jpg\"></p><p>- <strong> Núi Langbiang: </strong>Ai đến Đà Lạt mà chưa một lần muốn ghé đến Langbiang? Là đỉnh núi cao nhất Đà Lạt, từ nơi đây, bạn có thể thu vào tầm mắt toàn cảnh của phố núi, ngẩn ngơ trước vẻ đẹp hòa quyện của đồi núi và mây trời. Đến Đà Lạt, ghé thăm đỉnh Langbiang, bạn còn có cơ hội được biết về câu chuyện tình đầy thơ mộng nhưng cũng rất bi thương của chàng Lang và nàng Biang khi xưa.<img class=\"mt-2\" src=\"https://dalatpalace.vn/wp-content/uploads/2019/09/langbiang-o-dau-1024x500.jpg\"></p><p>- <strong>Thung Lũng Tình Yêu: </strong>Ngay từ cái tên cũng đã phần nào thể hiện được cái thơ, cái tình tứ của nơi này. Tọa lạc cách trung tâm thành phố tầm 7km, Thung lũng Tình Yêu là địa điểm thơ mộng bậc nhất xứ núi mà du khách, đặc biệt là các cặp đôi không nên bỏ qua. Đến nơi đây, ngoài muôn vàn những loài hoa đẹp, du khách còn có cơ hội chiêm ngưỡng và lưu lại những khoảnh khắc bên những tiểu cảnh xinh đẹp tượng trưng cho tình yêu đôi lứa.<img class=\"mt-2\" src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2015/12/thung-lung-tinh-yeu.png\"></p></div>"
+    },
+    {
+      "id": "4",
+      "idTour": "4",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Huế - hồn cố đô</h3><div class= \"tourSchedule \"><p>Một xứ Huế mộng mơ cùng những nét cổ xưa đã đi vào lòng không biết bao du khách. Vậy liệu đó có phải ở Huế chỉ có những điều như thế thôi? Hãy cùng bài viết tìm hiểu những địa điểm du lịch Huế được nhắc tới sau đây để hiểu hơn về mảnh đất cố đô ấy.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>Đến vùng đất Cố đô đừng bỏ lỡ... </p><p>- <strong> Đại Nội Huế: </strong>Đã nói đến Huế thì một trong những địa điểm du lịch Huế mà chúng ta phải nhắc tới đầu tiên và trước hết liên quan tới chính cái danh khiến nhiều du khách biết tới Huế dù chưa từng lần nào đến nơi này chính là Đại Nội Huế.<p>Khu Đại nội Huế nằm ngay bên bờ sông Hương – dòng Huế thơ mộng. Đại Nội Huế chính là một trong những di tích Văn hoá thế giới đã được tổ chức UNESCO công nhận.</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/hoang-thanh-hue.jpg\" class=\"mt-2\"><p>Đại Nội Huế là một quần thể di tích văn hóa tượng trưng cho một thời phong kiến của nước Việt Nam hiện nay, bao gồm Hoàng Thành và Tử Cấm Thành được Kinh thành bao bọc.</p><p>Nếu lựa chọn địa điểm du lịch Huế 2020 thì nhất định du khách không nên bỏ qua tham quan và khám phá quần thể di tích Đại Nội Huế nhé! Đến đây, bạn sẽ được tận mắt chứng kiến những công trình kiến trúc cung điện nguy nga, bề thế cùng những đền đài và miếu thờ đồ sộ, …</p></p><p class=\"mt-2\">- <strong> Lăng Tự Đức: </strong>Được xem là một trong những lăng tẩm đẹp nhất thời Nguyễn, Lăng Tự Đức tọa lạc tại một khu thung lũng hẹp ở làng Dương Xuân Thượng, tổng Cư Chánh. Lăng tẩm này còn có một cái tên khác là Khiêm Lăng. Tại sao lại như vậy thì bạn hãy tới đây và tìm hiểu nhé!. Lăng Tự Đức không chỉ là những nét kiến trúc đẹp và được thiết kế tỉ mỉ mà nơi đây còn là một địa điểm tham quan du lịch Huế đẹp với sự kết hợp hài hoà cả trong phong cảnh thiên nhiên “sơn thuỷ hữu tình” và một không gian bao la, rộng lớn.<p>Du lịch Huế đến Lăng Tự Đức du khách sẽ được chiêm ngưỡng một lăng tẩm được bao bọc giữa bốn bề thiên nhiên tươi xanh, thoáng mát của cây cối, hoa cỏ và cả một hồ nước rộng lớn nằm ngay cạnh.</p><p>Hiện nay, tuy rằng nó đã khoác trên mình của một tấm áo rêu phong, cổ kính những những nét kiến trúc cầu kỳ vẫn còn được nguyên vẹn. Việc tham quan và hoà mình vào khung cảnh thơ mộng và yên bình nơi này sẽ không khiến du khách phải thất vọng!</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/lang-tu-duc-dia-diem-du-lich-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Lăng Minh Mạng: </strong>Nằm trong chùm các địa điểm du lịch Huế đẹp về kiến trúc lăng tẩm, Lăng Minh Mạng là một lăng tẩm mà khách du lịch khó có thể quên được với những đường nét uy nghiêm, tĩnh lặng kiến trúc và sự kết hợp hài hoà với không gian hội hoạ và thơ ca cùng khung cảnh thiên nhiên hoa lá đầy trữ tình.<p>Chính những nét riêng ấy đã tạo nên một lăng tẩm đầy bề thế và uy nghiêm trong mắt du khách nhưng cũng không làm giảm bớt đi sự lãng mạng của vị cua Minh Mạng thời ấy.</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/lang-minh-mang-dia-diem-du-lich-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong>  Lăng Khải Định: </strong>Được xếp vào một trong những lăng tẩm đáng để tham quan và khám phá thì Lăng Khải Định có một nét rất riêng và đặc biệt mà chỉ nó mới có, đó là ẩn chứa những thiết kế kiến trúc giao thoa giữa 2 nền văn hoá Đông – Tây.<p>Lăng tẩm này được xây dựng tọa lạc trên núi Châu Chữ, là nơi yên nghỉ của vị hoàng đế Minh Mạng, vị vua thứ 12 của triều nhà Nguyễn.</p><p>Là một trong những địa điểm du lịch đẹp ở Huế, Lăng Khải Định không có kích thước và quy mô bề thế và rộng lớn như những lăng tẩm khác và có thể nói là bé nhất luôn.</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/lang-khai-dinh-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong>  Chùa Thiên Mụ: </strong>Là một người dân Việt Nam, chắc hẳn du khách cũng không ít thì nhiều nghe tới danh ngôi chùa Thiên Mụ trong những tác phẩm văn học, thi ca nhạc họa. Đây cũng là một trong những địa điểm du lịch khi đến Huế mà chúng tôi muốn giới thiệu cho du khách.<p>Ngôi chùa này được xây dựng trên ngọn đồi Hà Khê, phía tả ngạn của dòng sông Hương. Không chỉ là một điểm đến chứa đựng nét tâm linh của người dân Việt Nam nói chung và người Huế nói riêng, chùa Thiên Mụ còn mang tới cho khách du lịch một cái nhìn đẹp đẽ về phong cảnh chùa chiền ở Huế.</p><p>Đứng ngắm địa điểm du lịch Huế này từ xa xa, khách du lịch sẽ được chiêm ngưỡng một tòa tháp Phước Duyên cao ngất ngưởng, sừng sững – một biểu tượng mà không ai có thể quên được khi đạt chân tới vùng đất cố đô Huế này.</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/chua-thien-mu-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong>  Cầu Tràng Tiền: </strong>Cũng trong những câu hát “Ai ra xứ Huế” của nhạc sỹ Duy Khánh, một địa điểm du lịch Huế nữa được nhắc tới – cầu Trường Tiền (hay còn gọi là Cầu Tràng Tiền).<p>Đây là một cây cầu bắc qua Sông Hương với những nhịp cầu cong cong, mềm mại và uyển chuyển. Đó cũng là một trong những biểu tượng đặc trưng không thể không nhắc tới khi nhớ về Huế.</p><p>Đặc biệt hơn, giống với cầu Long Biên tại Hà Nội thì Huế cũng có cầu Tràng Tiền là một chứng nhân lịch sử còn đó. Cây cầu Tràng Tiền đã chứng kiến biết bao thăng trầm của lịch sử dân tộc trong dòng lịch sử hơn 100 năm qua.</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/cau-trang-tien-o-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong>  Điện Hòn Chén: </strong>Nhắc tới Điện Hòn Chén thì không phải du khách nào cũng biết đến, điện thờ này nằm trên sườn núi Ngọc Trẩn, thấp thoáng ẩn mình trong những tán cây xanh và hướng mình in bóng xuống làn nước sông Hương.<p>Đây là một cụm di tích lịch sử và tôn giáo, trong đó có 10 công trình kiến trúc với phong cách trang trí cổ độc đáo. Cụm di tích này còn là một trong những địa điểm du lịch của Huế chứa đựng đầy nét văn hoá tín ngưỡng đặc sắc thu hút nhiều khách du lịch đến trong dịp lễ hội tháng 3 và tháng 7 Âm lịch hàng năm.</p><p>Vì vậy, nếu có cơ hội đi du lịch Huế vào những khoảng thời gian trên thì đừng bỏ lỡ lễ hội Huế ở điện Hòn Chén Ẩn nhé!</p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/dien-hon-chen-dia-diem-du-lich-hue.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong>  Núi Bạch Mã: </strong>Rời khỏi những nét đẹp, những địa điểm hấp dẫn trong trung tâm thành phố Huế, chúng ta hãy cùng đến với núi Bạch Mã. Đây là một trong top 10 địa điểm du lịch Huế được nhiều khách du lịch ghé thăm nhất khi tới cố đô Huế.<p>Ngọn núi này chính là một ranh giới tự nhiên giữa 2 tỉnh thành của Việt Nam là Thừa Thiên - Huế và Đà Nẵng trực thuộc vườn quốc gia Bạch Mã với những ngọn thác hùng vĩ và sự đa dạng các loài động thực vật quý hiếm.</p><p>Không chỉ được ngắm nhìn một cảnh quan núi non, thác nước đẹp đẽ hay được tận mất chứng kiến những loài động vật, thực vật mà mình yêu thích trong giới tự nhiên mà tới đây du khách còn có cơ hội trở thành những nhà leo núi cừ khôi trên con đường chinh phục núi Bạch Mã.<img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/chinh-phuc-nui-bach-ma.jpg\" class=\"mt-2\"><p>Đặt chân lên đỉnh núi đã có một cảm giác thành tựu khi chinh phục thành công nhưng quan khán toàn cảnh núi Tuý Vân, đèo Hải Vân và phong cảnh thành phố Huế lộng lẫy trong đáy mắt thì còn tuyệt vời hơn thế nữa!</p></p></br><img src=\"https://onetour.vn/Media/Images/OneTour/tin-tuc/2019/thang%206/vuon-quoc-gia-bach-ma-dia-diem-du-lich-hue.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "5",
+      "idTour": "5",
+      "conten": "<h3 class= \"text-primary mt-4 \">Ấn tượng bờ biển Jomtien - thiên đường của Pattaya</h3><p>Jomtien được đánh giá là 1 trong 2 bờ biển đẹp nhất của thành phố Pattaya, phát triển từ làng chài truyền thống nhỏ, đến nay Jomtien mang vẻ đẹp hấp dẫn bất cứ ai.</p><div class= \"tourSchedule \"><p>Jomtien hay Jomtien Beach (Bãi biển Jomtien, Haat Jomtien), trên các biển báo đường bộ và bản đồ đường bộ thường được viết là Chom Tian, thuộc một thị trấn nằm trên bờ biển phía đông của Vịnh Thái Lan, cách Bangkok khoảng 165 km về phía đông nam Tỉnh Chonburi. Cách trung tâm Pattaya khoảng 3 km về phía nam, bao gồm các khu nhà chung cư cao cấp, khách sạn bên bãi biển, bờ biển và nhà hàng.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Bãi biển Jomtien có gì thú vị</h3><p>Đây là bãi biển hấp dẫn du khách bậc nhất Pattaya với nước biển xanh màu ngọc bích cùng bãi cát trắng trải dài tuyệt đẹp. Đến với Jomtien, du khách sẽ được trải nghiệm các môn thể thao dưới nước vô cùng thú vị như lướt sóng, đi thuyền hay lặn. Những resort và khách sạn cao cấp tại đây cũng là lý do bãi biển Jomtien thu hút nhiều du khách ghé thăm đến vậy.</p><div class= \"tourSchedule \"><p>- <strong> Phố đi bộ: </strong>Thời gian phố đi bộ ở Pattaya nhộn nhịp nhất là nửa đêm trở về sáng. Bạn sẽ lạc giữa những ánh đèn neon nhấp nháy đủ màu đủ kiểu, những cô gái sexy mời gọi, những dịch vụ vô cùng nhộn nhịp, bar, pub quẩy xuyên màn đêm khi đi dạo ở đây.<img class=\"mt-2\" src=\"https://vietnamembassy-thailand.org/wp-content/uploads/2019/05/kinh-nghiem-du-lich-pattaya-thai-lan-5.jpg\"></p><p>- <strong> Cabaret show: </strong>Những công ty tour du lịch chất lượng như Saigontourist, Vietravel, Du lịch Việt… khi dẫn tour Thái Lan căn bản chắc chắn sẽ không bỏ qua màn trình diễn đặt sắc này, nên bạn hoàn toàn có cơ hội trải nghiệm khi đăng kí đi du lịch Pattaya Thái Lan theo tour.<img class=\"mt-2\" src=\"https://vietnamembassy-thailand.org/wp-content/uploads/2019/05/kinh-nghiem-du-lich-pattaya-thai-lan-6-1024x682.jpg\"></p><p>- <strong> Chợ nổi bốn mùa: </strong>Khu chợ này bán rất nhiều thứ, từ đồ ăn, đồ lưu niệm tới giày dép, quần áo phục vụ khách du lịch. Điều đặc biệt là những gian hàng nằm trên các cồn nhỏ, nối giữa những cây cầu. Những người bán hàng ở đây vô cùng thân thiện và cũng “sành” tiếng Việt, tuy nhiên vì chợ nổi có bán vé cho khách tham quan và đây là một điểm du lịch nên giá cả có hơi đắt đỏ một chút.<img class=\"mt-2\" src=\"https://vietnamembassy-thailand.org/wp-content/uploads/2019/05/kinh-nghiem-du-lich-pattaya-thai-lan-7.jpg\"></p><p>- <strong> Trân Bảo Phật Sơn: </strong>Năm 1996, đức vua Rama IX của Thái Lan lâm cơn bạo bệnh, Thái tử lúc đó đã tìm mọi cách chạy chữa mà không được. Nhớ đến truyền thuyết của ngọn núi Khao Chee Chan, Thái tử đã mời 30 vị cao tăng của cả nước đến khai phong điểm nhãn tiến hành xẻ đôi quả núi để khắc lên đó hình tượng Phật Thích Ca Mâu Ni với mục đích cầu phước cho vua cha. Hình Phật sau khi hoàn thành cao 130m, rộng 70m và được dát lên 999kg vàng 24 cara với tổng giá trị 161,7 triệu Baht. Thái tử tin rằng hình tượng Phật Thích Ca Mâu Ni có thể tỏa sáng đến khắp nhân gian, phổ độ chúng sinh. Cũng kể từ đó, ngọn núi Khao Chee Chan còn có tên gọi khác là Trân Bảo Phật Sơn hay núi Phật Vàng.<img class=\"mt-2\" src=\"https://vietnamembassy-thailand.org/wp-content/uploads/2019/05/kinh-nghiem-du-lich-pattaya-thai-lan-8.jpg\"></p><p>- <strong> Lâu đài tỉ phú: </strong>Lâu đài tỷ phú Baan Sukhawadee được xây dựng tráng lệ, nguy nga bên bờ biển, mô phỏng theo cung điện Versailles. Đây là điểm tham quan mới và hấp dẫn tại Pattaya. Lâu đài là một quần thể kiến trúc hài hòa, độc đáo và đem lại những triết lý nhân sinh, tâm linh sâu sắc. Ngày nay, nó đã được cống hiến cho Hoàng gia Thái Lan và trở thành một điểm tham quan không thể thiếu trong lịch trình du lịch Pattaya Thái Lan của du khách.<img class=\"mt-2\" src=\"https://vietnamembassy-thailand.org/wp-content/uploads/2019/05/kinh-nghiem-du-lich-pattaya-thai-lan-9.jpg\"></p></div>"
+    },
+    {
+      "id": "6",
+      "idTour": "6",
+      "conten": "<h3 class= \"text-primary mt-4 \">SENTOSA- Hòn Đảo Vui Vẻ của Singapore</h3><div class= \"tourSchedule \"><p>Phù hợp với mọi lứa tuổi, Đảo Sentosa là nơi có những điểm tham quan vui chơi nổi tiếng nhất của Singapore, như công viên chủ đề Universal Studios Singapore và Thủy Cung S.E.A.. Người trưởng thành có thể tìm thấy “thiên đường trú ẩn” tại khu nghỉ dưỡng sòng bài Resorts World Sentosa Casino và Tháp Crockfords. Trong khi đó, những thiếu niên ưa phiêu lưu có thể trải nghiệm đường trượt mạo hiểm Skyline Luge và Bãi Biển Sentosa Tanjong!</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những Điểm Tham Quan Hàng Đầu trên Đảo Sentosa</h3><div class= \"tourSchedule \"><p>Một trong những điểm nổi bật trên Đảo Sentosa là Resorts World Sentosa. Khu nghỉ dưỡng này là nơi có những điểm tham quan chính trên đảo và nhiều khách sạn riêng biệt, bao gồm Hard Rock Hotel Singapore.</p><p>- <strong> Universal Studios Singapore: </strong>Du khách nên lên lịch trình tới công viên chủ đề Universal Studios Singapore để có thể trải nghiệm các trò chơi, chương trình biểu diễn cùng nhiều điểm vui chơi khác. Nằm ở vị trí thuận lợi trong khu nghỉ dưỡng Resorts World Sentosa, Universal Studios Singapore có 24 điểm vui chơi và bảy khu vực theo chủ đề, bao gồm Hollywood, New York, Sci-Fi City và Ancient Egypt.</br><img src=\"https://phuotvivu.com/blog/wp-content/uploads/2017/05/universal-studios-singapore.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Thủy Cung S.E.A: </strong>Thủy cung khổng lồ trên Đảo Sentosa này có hơn 100.000 sinh vật biển thuộc 1.000 loài khác nhau. Du khách có thể tự đi khám phá hoặc lựa chọn trải nghiệm VIP. Du khách thậm chí có thể tham gia một khóa lặn PADI Open Water để nhận chứng chỉ lặn chính thức từ Hiệp Hội Lặn Quốc Tế (PADI).</br><img src=\"https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/0d30ec5e-Aquarium/V%C3%A9Th%E1%BB%A7yCungSEASentosa,Singapore.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Skyline Luge: </strong>Đường trượt Skyline Luge trên Đảo Sentosa được đưa vào hoạt động từ năm 2005 và từ đó đón nhiều du khách từ khắp nơi trên thế giới. Skyline Luge cho phép du khách tự điều khiển xe và trượt dốc nhanh chậm tùy thích. Với bốn đường trượt, gồm Jungle Trail, Dragon Trail, Kupu Kupu, và Expedition, đây là lựa chọn tuyệt vời cho những người mê mạo hiểm. Du khách muốn tìm kiếm một nơi ngắm cảnh đẹp mà không phải trải qua cảm giác mạo hiểm có thể thử Skyride (hệ thống cáp treo mở) tại Skyline Luge. Skyride cho du khách ngắm nhìn Đảo Sentosa từ trên cao và đường chân trời tuyệt vời của Singapore. Nếu muốn một buổi tối lãng mạn, các cặp đôi có thể trải nghiệm Skyride vào ban đêm. Skyride mang lại cho du khách những giây phút ngắm sao đêm khó quên trong đời.</br><img src=\"https://i.ytimg.com/vi/Z-NExJ251CE/maxresdefault.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Các Bãi Biển ở Sentosa: </strong>Đảo Sentosa có ba bãi biển đẹp và du khách tới cả ba bãi biển này bằng tàu điện Sentosa Express Monorail. Du khách có thể chọn Bãi Biển Siloso, Bãi Biển Palawan, và Bãi Biển Tanjong, tùy vào việc du khách đang tìm kiếm trải nghiệm nào.<p>Bãi Biển Siloso nằm gần Ga Beach và có nhiều hoạt động như trượt pa tanh, chèo thuyền kayak và lướt ván.</p><p>Bãi Biển Palawan là nơi thân thiện hơn với các gia đình, và du khách nên chuẩn bị tinh thần vì nơi này khá đông vào ngày cuối tuần hoặc ngày lễ. Bãi Biển Palawan có Palawan Pirate Ship, công viên nước kỳ thú dành cho trẻ em ở mọi lứa tuổi.</p><p>Bãi Biển Tanjong là lựa chọn tuyệt vời dành cho những du khách muốn tìm kiếm một nơi để thư giãn, nghỉ ngơi. Dù là bãi biển xa nhất từ Ga Beach, Bãi Biển Tanjong bù đắp cho quãng đường xa bằng khung cảnh tuyệt đẹp và bầu không khí yên bình.</p></br><img src=\"https://i1.wp.com/www.agoda.com/wp-content/uploads/2019/06/Trick-Eye-Museum-Singapore.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Bảo Tàng Trick Eye Singapore: </strong>Với những du khách có trẻ em đi cùng – hoặc đơn giản muốn tìm một nơi để tránh nóng và có trải nghiệm vui vẻ – thì Bảo Tàng Trick Eye Singapore là một lựa chọn không thể bỏ qua. Bảo tàng này có nhiều tác phẩm nghệ thuật 3D và vô số màn trình diễn đánh lừa thị giác. Những bức tranh tường tương tác mang lại cho du khách cảm giác như là một phần của bức tranh! Bảo tàng này nằm bên trong Resorts World Sentosa.</br><img src=\"https://datve.co/image/cache/catalog/Show/trick-eye-singapore-750x390.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "7",
+      "idTour": "7",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Cao Hùng-Đài Loan</h3><div class= \"tourSchedule \"><p>Đài Bắc, Đài Trung và Đài Nam — nếu bạn đang lên lịch du hí tại Đài Loan, ba thành phố kể trên có lẽ mặc nhiên đã nằm trong lộ trình của bạn rồi. Nhưng chờ đã, hãy chắc rằng bạn không bỏ lỡ Cao Hùng nhé! Là thành phố lớn thứ nhì của Đài Loan, xứ cảng này chính là tụ điểm giao thương nhờ vào địa thế lý tưởng của mình. Từ thập kỷ trước, dưới tác động mạnh mẽ của chính quyền địa phương, đô thị công nghiệp này đã chuyển mình thành một trong những thành phố “xanh” nhất quốc đảo, điểm đến hoàn hảo cho những du khách không chỉ đơn thuần là tìm kiếm một nơi để “rời xa phố thị”. Đó là còn chưa kể đến các món ăn ngon lành, vượt xa cái gọi là ẩm thực đường phố thông thường. À, còn các khu chợ đêm nữa chứ!</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Tản bộ trên sông Ái Hà: </strong>Chắc chắn rồi, có lẽ nó đã được quảng bá quá nhiều. Viêc tay trong tay tản bước với người yêu dấu tại điểm du lịch nổi tiếng nhất của Cao Hùng nghe thôi đã thấy hết sức lãng mạn và mộng mơ rồi. Hãy hình dung bạn đang ở trong một bộ phim tình cảm Đài Loan, nói nói cười cười sát bên nhau với ánh đèn lung linh lướt trên dòng chảy của con sông xuyên qua làn tóc của bạn. Ngoài ra, có khá nhiều phim truyền hình Đài Loan đã được quay tại đây như “Anh hung du côn” và “Khoảnh khắc ngọt ngào”.</br><img src=\"https://static.tripzilla.com/thumb/8/b/130955_800x.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Xua đuổi vận rủi tại Long Hổ Tháp: </strong>Trải nghiệm tín ngưỡng phương Đông với kiến trúc uy nghiêm rực rỡ tại quận Zouying, Cao Hùng, nơi hai tòa tháp tọa lạc. Được đặt sừng sững ngay giữa Đầm Liên Trì, hai lối vào tòa tháp một bên có hình dạng như một con rồng thanh tao trong khi bên còn lại là một chú hổ có phần e dè. Khi đi xuyên qua những bậc thang xoắn ốc ở miệng rộng và lối ra ở miệng hổ, điều này tượng trưng cho quan niệm hóa rủi thành may.<p>Xung quanh Đầm Liên Trì có khá nhiều công trình theo lối kiến trúc chùa, điện rất đẹp. Kể đến như điện Pei Chi, Đền Khổng Tử hay Đài Xuân Thu nằm trải dài bên bờ đầm nên hãy dành trọn cả buổi trưa tại đây nhé!</p></br><img src=\"https://static.tripzilla.com/thumb/9/0/130960_800x.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Thỏa sức mua sắm tại Xin Jue Jiang: </strong>Mua sắm giải khuây và tiện thể thư giãn gân cốt một chút sau khi ăn một bữa thịnh soạn bằng cách đi dạo quanh khu mua sắm ở Xin Jue Jiang, một địa điểm mua sắm được giới trẻ ưa chuộng. Hơn nữa, nó nằm ngay kế bên cổng vào trạm tàu điện Central Park (R9) nên du khách có thể thoải mái khi biết rằng việc đi lại là không thành vấn đề.<p>Shop, nhà hàng và quán xá trải dọc bên đường, hầu hết là không gian mở, đem đến cho khách hàng trải nghiệm thú vị khi vừa ngắm nghía hàng hóa vừa ngấu nghiếng các món ăn vặt địa phương hay nhấm nháp món đồ uống tươi mát.</p></br><img src=\"https://static.tripzilla.com/thumb/9/5/130965_800x.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Đảo Cijin: </strong>Hầu như ai đến Cao Hùng đều dành hẳn một ngày để khám phá đảo Cijin, một đảo nhỏ cách Cao Hùng khoảng 10 phút đi tàu thủy. Hòn đảo quyến rũ này là một điểm đến hoàn hảo cho buổi dã ngoại của gia đình hay một buổi hò hẹn hâm nóng tình cảm của đôi lứa. Thuê một chiếc xe đạp và khám phá mọi ngóc ngách trên đảo, bao gồm di tích hải đăng và pháo đài Cihou. Đừng quên ghé thăm bãi biển cát đen hết sức ấn tượng nhé!<p>Kết thúc chuyến đi bằng một yến tiệc hải sản! Không nói cũng biết món ăn số một ở đảo Cijin là hải sản. Tại đây bạn có thể tìm thấy các loại hải sản tươi ngon với giá phải chăng, vậy nên hãy làm một bụng đầy mực ống, cá và sò trước khi quay trở lại Cao Hùng!</p></br><img src=\"https://static.tripzilla.com/thumb/9/7/130967_800x.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Trải nghiệm lạ lùng tại Công viên Địa chất Tianliao Moon World: </strong>Trái ngược với tên gọi, Tianliao Moon World không phải là một khu vui chơi hút khách. Thực ra, muốn nghĩ nó là gì cũng được! Hãy hình dung một cảnh tượng thời tiền sử hoặc cái gì đó tương tự như trong Star Trek ấy, đó chính là cảnh quang tự nhiên tại vùng đất xấu ở quận Tianliao này, được khéo léo đặt tên là Moon World. Hiện tượng xói mòn kéo dài năm này qua năm khác đã tạo nên địa hình hết sức đặc biệt. Trên thực tế, đất xấu như thế thường chỉ được tìm thấy ở những khu vực khô cằn, nhưng ngay tại khu vực nhiệt đới như ở Cao Hùng thì quả là rất đặc sắc. Một nơi luôn được nhắc đến khi được hỏi chơi gì ở Cao Hùng(Kaohsiung).<p>Hãy quên cảnh phố thị và trung tâm mua sắm đi, Moon World chứa đựng những điều khác thường rất hiếm thấy ở bất kỳ nơi nào khác tại châu Á. Đi bộ vất vả quanh vùng đất xấu nhưng khi lên đến đỉnh, bạn sẽ được thưởng công bằng cảnh tượng hùng vĩ vi diệu!</p></br><img src=\"https://static.tripzilla.com/thumb/9/b/130971_800x.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Chìm đắm trong nghệ thuật tại Trung tâm Nghệ thuật Pier-2.: </strong>Chơi gì ở Cao Hùng(Kaohsiung)? Hãy đánh thức sự sáng tạo trong bạn tại Trung tâm Nghệ thuật Pier-2, một khu công nghiệp bỏ hoang đã hoàn toàn lột xác trở thành thủ phủ nghệ thuật với nhiều công trình và triễn lãm nghệ thuật độc đáo. Ở đây có rất nhiều buổi giao lưu chụp ảnh và số lượng lớn các tác phẩm nghệ thuật sẽ đảm bảo rằng bạn sẽ chẳng bao giờ thấy chán miễn là bạn đi cùng “chiến hữu” của mình và mang theo nước uống trên tay!<p>Các kho hàng trước đây từng bị bỏ hoang, nhưng nhờ có sự kiên trì của các nghệ sĩ địa phương, nó đã biến thành một trong những địa điểm được săn lùng nhất ở Cao Hùng, nhanh chóng thúc đẩy du lịch của thành phố này.</p></br><img src=\"https://static.tripzilla.com/thumb/9/c/130972_800x.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "8",
+      "idTour": "8",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Hàn Quốc ở Incheon - tại sao không?</h3><div class= \"tourSchedule \"><p>Du lịch Hàn Quốc tại Incheon – tại sao lại không chứ? Incheon chỉ cách Seoul 35 km về phía Tây, rất dễ dàng di chuyển từ Seoul đến Incheon bằng otô, tàu hỏa, tàu điện. Không chỉ sở hữu sân bay quốc tế Incheon nổi tiếng, thuận lợi cho việc bay từ TP Hồ Chí Minh hoặc Hà Nội đến Incheon mà thành phố này còn sở là nơi tập trung rất nhiều cảnh đẹp tự nhiên, danh lam thắng cảnh nổi tiếng. Có thể nói Incheon đẹp từ mọi góc nhìn với sự pha trộn của các cảnh đẹp.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Đảo Muui:</strong>Tham quan Đảo Muui đừng bỏ lỡ hành trình chinh phục núi Horyong. Toàn bộ cảnh đẹp tựa thiên đường của đảo Muui và các hòn đảo lân cận sẽ hiện diện ngay trước mắt bạn. Bãi biển nổi tiếng đẹp nhất tại Muui là bãi Hanagae, nơi đây có một đồi cát rất thơ mộng, từng được lựa chọn làm bối cảnh bấm máy cho bộ phim “ Nấc thang lên thiên đường “ của Hàn Quốc.</br><img src=\"https://intertour.vn/upload/infomation/Muui-do-incheon-han-quoc-hinh1.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Khu phố Tàu – China Town: </strong>Phố Tàu China Town tọa lạc tại Seonlin-dong, Jung-gu, Incheon. China Town là khu phố tàu còn tồn tại duy nhất tại Hàn Quốc hiện nay.<p>Tuy nằm trên đất Hàn Quốc nhưng mỗi ngõ nghách, góc phố tại China Town lại mang đậm văn hóa đặc trưng của Trung Hoa từ kiến trúc nhà cửa đến cách trang trí, họa tiết… Một bầu không khí yên bình bao trùm khu phố nhỏ này, người Hoa tại đây rất thân thiện hiếu khách nên khiến du khách luôn cảm nhận được sự thoải mái. Bạn muốn tìm hiểu văn hóa, bản sắc trung hoa ngay trên đất Hàn Quốc thì hãy ghé đến khu phố China town này.</p></br><img src=\"https://intertour.vn/upload/infomation/China-Town-incheon-han-quoc-hinh-2.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Công viên sinh thái Sorae: </strong>Sorae là công viên sinh thái tự nhiên, có diện tích 1.560.000 m2. Là môi trường sinh sống lý tưởng của rất nhiều hệ động thực vật quý hiếm.<p>Khung cảnh thiên nhiên mang đậm nét hoang dã, không khí trong lành, yên bình và đặc biệt là rất đẹp. Trải nghiệm du lịch sinh thái tại công viên Sorae, bạn sẽ có dịp được khám phá các hố bùn, các cánh đồng muối trắng tinh, thơ mộng nhất khung cảnh trong xanh của bầu trời với những chiếc cối xay gió màu đỏ hồng khổng lồ đứng chiễm chệ giữa cánh đồng lau – cho du khách một cảm giác như đang lạc vào một khu rừng cổ tích nào đó.</p></br><img src=\"https://dulichvietnam.com.vn/cam-nang-han-quoc/images/thanh-pho-incheon-han-quoc-diem-hen-moi-cua-cac-ban-tre-hinh-anh-4.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Cầu Incheon: </strong>Cầu Incheon là cây cầu vượt biển, hiện đang giữ kỷ lục là cây cầu dài nhất hiện nay tại Hàn Quốc với chiều dài 18.248km. Được xây dựng bắt qua biển Incheon để kết nối sân bay tốc hành quốc tế Incheon và sân bay tốc hành Gyeongin II và thành phố quốc tế Songdo.<p>Cầu uốn lượn một cách ấn tượng đẹp như con rồng khổng lồ đang uốn mình trên mặt biển. Cây cầu vượt biển Incheon được tạp chí Xây dụng của anh bình chọn vào top 10 kiến trúc đẹp tuyệt vời nhất thế giới vào ngày 8/12/2005. Vào ban đêm, ánh đèn sáng rực từ cây cầu tỏa sáng xuống lòng biển tạo nên cảnh tượng lung linh và huyền ảo. Cầu Incheon là niềm tự hào của người dân thành phố Incheon.</p></br><img src=\"https://intertour.vn/upload/infomation/cau-Incheon-han-quoc-3.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Vách đá Bun Bawui: </strong>Vách đá Bun Bawui nằm trên đảo Socheong của thành phố Incheon. Vách đá này thu hút du khách tham quan chụp ảnh khi du lịch đảo Socheong vì nó có thể phát sáng vào lúc trời sang chiều, khi hoàng hôn dần buông xuống.<p>Đặc biệt vào những ngày cuối tháng, vách đá phát sáng rất rực rỡ, nên nó được xem như là một ngọn hải đăng tự nhiên dẫn đường cho tàu thuyền cập bến an toàn.</p></br><img src=\"https://intertour.vn/upload/infomation/Incheon-park-han-quoc-5.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Chamseongdan: </strong>Chamseongdan là nơi được dựng ra dành riêng để thờ vua Dangu (vị vua có công trong việc sáng lập ra đất nước Hàn Quốc).<p>Chamseongdan toạ lạc trên đỉnh núi Manisan. Các vị vua Goguryeo, Baekje, Silla hay Joseon của các triều đại tiếp theo thường ghé đến Chamseongdan để làm lễ tế vào thời điểm mùa thu và mùa xuân. Chamseongdan đã được chính phủ Hàn Quốc công nhận là di tích lịch sử quốc gia. Được bảo tồn rất cẩn thận.</p></br><img src=\"https://i.pinimg.com/originals/f6/9d/e7/f69de74387a76e9fdfb54fb5f44ad906.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "9",
+      "idTour": "9",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Phuket - Khiến bạn chơi quên lối về</h3><div class= \"tourSchedule \"><p>Du lịch Phuket những năm gần đây được rất nhiều du khách quan tâm và lựa chọn bởi hòn đảo này sở hữu rất nhiều cảnh đẹp và những địa điểm vui chơi hấp dẫn, chi phí khi du lịch cũng không quá cao. Hôm nay, chúng tôi sẽ gửi đến bạn một số địa điểm thăm quan, du lịch hấp dẫn mà bạn không nên bỏ qua khi tới Phuket.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>Địa điểm du lịch Phuket</p><p>- <strong> Bãi biển Patong:</strong>Bãi biển Patong là một trong những địa điểm du lịch nổi tiếng của thành phố Phuket thu hút được rất đông du khách ghé thăm. Bãi biển nơi đây sở hữu vẻ đẹp vô cùng thơ mộng với làn nước biển xanh trong, bờ cát trắng mịn. Tới đây bạn có thể thỏa sức lặn ngụp trong dòng nước mát nơi đây.</br><img src=\"https://www.yong.vn/Content/images/travels/bai-bien-patong.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Đền Wat Chalong: </strong>Được xây dựng từ thế kỷ 19, Wat Chalong được xem là ngôi đền lớn và nổi tiếng nhất của Phuket. Trong ngôi đền này thờ hai vị thầy tu là Luang Pho Chuang và Luang Pho Chaem cùng những vị thần đã bảo vệ nền hòa bình của người dân trên đảo. Địa điểm này là một quần thể bao gồm nhiều ngôi đền nhỏ, độc đáo nhất vẫn phải kể đến sự hiện diện của ngôi đền Poh Than Jao.<p>Không chỉ mang những nét độc đáo về kiến trúc, bước vào khuôn viên của Wat Chalong bạn sẽ cảm nhận được không gian tôn nghiêm, thanh tịnh khắc hẳn với sự nhộn nhịp, sôi động thường thấy ở Phuket. Tới đây cũng là dịp để bạn có thể cầu bình an, phước lành cho bản thân và những người thân yêu trong gia đình.</p></br><img src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/2-wat-chalong-vntrip-e1523005622884.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Đô thị cổ ở Phuket: </strong>Một địa điểm khác cũng để lại rất nhiều ấn tượng tốt đẹp cho du khách khi đến du lịch Phuket Thái Lan chính là con phố cổ kính dài chừng 2 km, với 6 tuyến đường nhỏ được xây dựng từ thế kỷ 19. Cũng giống Phố cổ Hội An của Việt Nam, con phố này đến nay vẫn giữ được nguyên vẹn những nét kiến trúc độc đáo, khiến những ai tới đây đều phải ngỡ ngàng trước vẻ đẹp của nó.<p>Thời điểm lý tưởng nhất để bạn ghé thăm nơi này có lẽ là buổi sáng hoặc lúc chiều tà. Vào buổi sáng mọi thứ hiện ra một cách rõ ràng, sắc nét, cũng là lúc bạn có thể ghé thăm nhiều địa điểm hấp dẫn trong khu phố. Nhưng khi chiều tà, khu phố lại trở nđế nên lung linh, huyền ảo hơn bao giờ hết.</p></br><img src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/3-ph%E1%BB%91-c%E1%BB%95-phuket-vntrip-e1523005724684.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Vịnh Phang Nga: </strong>Đến với vịnh Phang Nga sẽ là cơ hội để bạn có thể trải nghiệm cảm giác chèo thuyền kayak đi thăm quan những núi đá được bao bọc bởi màu xanh của cây dại hay những hang động tự nhiên, bên trong là vô số thạch nhũ lấp lánh vô cùng kỳ thú. Với vẻ đẹp độc đáo của mình vịnh biển này đã được chọn là nơi lấy bối cảnh của rất nhiều bộ phim bom tấn như: Công viên kỷ Jura, Điệp viên 007… Không những thế nơi đây còn được biết đến với hệ động thực vật vô cùng đa dạng và phong phú. Chắc chắn nơi đây sẽ để lại những dấu ấn khó quên trong chuyến hành trình khám phá Phuket của bạn .</br><img src=\"https://media.gody.vn/images/phuket/vinh-phang-nga/11-2016/20161104091150-vinh-phang-nga-phuket-gody%20(4).jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Quần đảo Koh Phi Phi: </strong>Trong các địa điểm trên bản đồ du lịch Phuket, sẽ thật lãng phí khi bạn không tới thăm đảo Koh Phi Phi, hòn đảo sở hữu vẻ đẹp quyến rũ thường xuất hiện trong các bộ phim. Nước biển ở đây xanh tới mức bạn có thể đi xa hàng chục mét vẫn có thể nhìn xuống đáy nơi có những rạng san hô với vô số hình thù, màu sắc khác nhau trông rất bắt mắt. Ngoài ra bạn có thể thuê thuyền kayak để tự mình thăm thú vẻ đẹp thiên nhiên nơi đây.</br><img src=\"https://i2.wp.com/storage.googleapis.com/inspitrip-blog/vi/2019/08/f5d85882-koh-phi-phi.jpg?fit=1920%2C1280&ssl=1\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Phố đêm Soi Bangla – trung tâm giải trí về đêm: </strong>Đa phần du khách khi chia sẻ kinh nghiệm du lịch Phuket đều nhắc đến sự sôi động, hấp dẫn của khu phố đêm Soi Bangla. Một khu phố luôn nhộn nhịp người qua lại đến 2-3h sáng. Nếu đây là lần đầu tiên tới khu phố này chắc hẳn bạn sẽ không khỏi choáng ngợp trước sự hoành tráng và sự bắt mắt của những ánh đèn từ các nhà hàng, quán bar, cùng những giai điệu trẻ trung xem lẫn vào đó là những tiết mục đường phố do các vũ công nơi đây thể hiện, thu hút được rất nhiều ánh nhìn từ các du khách khi tới đây khám phá.</br><img src=\"https://vgotravel.com.vn/upload/images/phuket2.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "10",
+      "idTour": "10",
+      "conten": "<h3 class= \"text-primary mt-4 \">Du lịch Bali</h3><div class= \"tourSchedule \"><p>Bali là một trong những điểm du lịch đẹp, tiết kiệm hầu bao và được các cặp đôi yêu thích nhất, đặc biệt là những tuần trăng mật ngọt ngào. Bali hội tụ rất nhiều điểm đặc sắc như khí hậu nhiệt đới ấm áp, có biển xanh, nắng vàng, nhiều hòn đảo đẹp, văn hóa – tôn giáo đa dạng, quá nhiều điểm tham quan và quan trọng là dịch vụ du lịch đã phát triển rất nhiều. Chính vì thế, không có lý do gì để các cặp đôi từ chối những điểm đến thú vị và lãng mạn như vậy. Vài kinh nghiệm du lịch Bali tự túc đơn giản dưới đây sẽ giúp bạn có được chuyến đi trong mơ hoàn hảo nhất quả đất.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Làng Batubulan:</strong>Làng Batubulan thuộc huyện Gianyar, tỉnh Bali, nổi tiếng với nghề chạm khắc đá. Đi dạo quanh ngôi làng, khách đi tour Bali từ Hà Nội sẽ thấy rất nhiều cửa hàng bày bán sản phẩm chạm khắc đá rất đẹp, ấn tượng. Những nhóm thợ làm nghề chạm khắc tại làng Batubulan thực hiện các hình mẫu truyền thống hoặc chạm theo nhu cầu của khách hàng.<p>Ngoài nghề chạm khắc đá, làng Batubulan còn nổi tiếng với nhiều các loại hình nghệ thuật biểu diễn đặc sắc. Trong đó nổi bật là vũ điệu Barong, Legong, miêu tả lại những câu chuyện lịch sử hoặc xua đuổi quỷ dữ, cầu bình an cho buôn làng hay biểu diễn Kecak với nghi thức đá lửa đều khiến du khách thích thú.</p></br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Bali/bagong-Batubulan-bali-indonesia-kynghidongduong.vn.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Đền Uluwatu: </strong>Điểm đến không thể bỏ qua khi đi tour Bali chính là đền Uluwatu. Ngôi đền này tọa trên đỉnh vách đá dốc đứng, cao khoảng 70m. Với vị trí vô cùng bắt mắt, nổi bật đã khiến cho đền Uluwatu trở thành nơi khách du lịch yêu thích nhất. Đặc biệt, ngôi đền này có ý nghĩa rất lớn đối với tín ngưỡng của địa phương nên được bảo quản, giữ gìn nguyên vẹn.<p>Đến thăm ngôi đền cổ này du khách không chỉ được chiêm ngưỡng cảnh đẹp mộng mơ như tranh vẽ mà còn ‘bắt’ cảnh hoàng hôn để chụp hình thật lung linh. Tất cả sẽ tạo thành background hoàn hảo nhất giúp bạn có những bức ảnh ‘sống ảo’ cực chất.</p></br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Bali/uluwatu-bali-indonesia-kynghidongduong.vn%20(02).jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Suối thiêng Tampak Siring: </strong>Suối thiêng Tampak Siring còn gọi với cái tên khác là suối thiêng đền Tirta Empul. Đây là nơi mà khách du lịch Bali không thể bỏ qua. Dòng suối nằm ở giữa làng Tampak Siring, ngôi đền có nguồn nước suối được sử dụng như nước thánh cho nhiều nghi lễ của Ấn Độ giáo. Đến suối thiêng Tampak Siring bạn sẽ có cơ hội hòa mình vào dòng nước mát mẻ, vừa giải nhiệt vừa được ban tặng may mắn, bình an trong công việc cũng như trong cuộc sống.</br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Tampak-Siring-kynghidongduong.vn(1).jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Đền Tanah Lot: </strong>Đền Tanah Lot nằm trên một tảng đá lớn ngay giữa biển, từ xa bạn sẽ nhìn thấy ngôi đền này rất giống hòn đảo nhỏ. Khi thủy triều xuống hiện lên con đường đá đen mịn, du khách có thể đi bộ để ra đền. Tanah Lot là một trong những ngôi đền Ấn Độ giáo đẹp nhất thế giới, bạn có thể cảm nhận được không khí linh thiêng, uy nghi khi đến đây.<p>Đặc biệt, view của ngôi đền này rất đẹp, bạn vừa có thể ngắm nhìn biển xanh sóng vỗ vào mỏm đá vừa có thể chiêm ngưỡng cảnh hoàng hôn đỏ lãng mạn. Vậy nên, hãy tìm những tour Bali giá rẻ có ghé qua đền Tanah Lot - ‘vùng đất nằm giữa biển’ này nhé.</p></br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Bali/tanah-lot-bali-indonesia-kynghidongduong.vn%20(01)%20(Nguon%20Florian%20Wizorek).jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Cổng trời đền Lempuyang: </strong>Cổng trời đền Lempuyang là điểm sống ảo mà khách du lịch rất thích khi đi du lịch đảo Bali. Cổng trời với hai cánh cổng đối xứng, nổi bật với những chạm khắc tỉ mỉ mang âm hưởng văn hóa Ấn Độ giáo. Chiếc cổng bước ra từ thần thoại này tượng trưng cho ranh giới giữa con người trần tục và các vị thần. Vẻ đẹp độc đáo của công trình kiến trúc kết hợp với thiên nhiên hùng vĩ của núi rừng đã tạo nên hình ảnh ấn tượng mà chắc chắn khi phải trở về du khách sẽ không thể nào quên.</p></br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Bali/Lempuyang-bali-indonesia-kynghidongduong.vn.jpg\" class=\"mt-2\"></p><p class=\"mt-2\">- <strong> Làng Mas: </strong>Làng Mas nổi tiếng với nghề thủ công mỹ nghệ truyền thống được truyền từ thời cha ông. Book tour Bali du khách nhất định phải đến thăm ngôi làng này để chiêm ngưỡng các tác phẩm nghệ thuật làm từ gỗ vô cùng độc đáo. Trong đó phải kể đến là chiến mặt nạ gỗ lấy cảm hứng từ truyện thần thoại Ấn Độ giáo và Phật giáo.<p>Đi bộ tham quan làng Mas bạn sẽ thấy từng công đoạn làm việc của người thợ chạm khắc. Tất cả đều chan chứa tất cả tình cảm cũng như con mắt tinh tế, đôi tay khéo léo mới có thể cho ra tác phẩm nghệ thuật đẹp đến vậy.<p>Hòn đảo Bali chính là thiên đường nghỉ dưỡng bậc nhất tại Đông Nam Á. Du khách đặt tour Bali không chỉ tận hưởng không gian trong lành, hòa mình với biển xanh mà còn được chiêm ngưỡng, khám phá nét đẹp văn hóa, tín ngưỡng Ấn Độ giáo, thần thoại của người dân bản địa. Vậy nên có thể nói du lịch Bali rất tuyệt vời, nơi đây sẽ giúp bạn bỏ quên những muộn phiền trong cuộc sống, lưu giữ khoảnh khắc thật đáng nhớ.</p></p></p></br><img src=\"https://www.kynghidongduong.vn/userfiles/images/indo/Bali/lang-mas-bali-indonesia-kynghidongduong.vn.jpg\" class=\"mt-2\"></p></div>"
+    },
+    {
+      "id": "11",
+      "idTour": "11",
+      "conten": "<div class=\"tab-content\" id=\"pills-tabContent\">    <div      class=\"tab-pane fade active show\"      id=\"pills-1\"      role=\"tabpanel\"      aria-labelledby=\"pills-home-tab\"    >            <span style=\"font-size: small;\">       </span>      <div style=\"text-align: justify;\">        <strong          ><span style=\"font-size: small;\"            ><span style=\"font-size: small;\"              ><em                ><span style=\"color: black;\"                  >Du lịch Huế Từ Hà Nội 3 ngày                </span></em              ></span            ></span          ></strong        ><span style=\"font-size: small;\"          ><span style=\"font-size: small;\"            ><em              ><span style=\"color: black;\">đưa du khách đến </span></em            ></span          ><em            ><span style=\"font-size: small;\"              >vùng có nhiều di sản văn hoá. Ðến nay, không còn một vùng nào              có một số lượng lớn các di tích mà những di tích này vẫn giữ              được hình dạng vốn có của nó như ở cố đô này. Ở bờ phía Bắc              của sông Hương là một di tích gồm những lâu đài được xây dựng              theo kiểu phòng thủ tạo thành một đường vòng cung dài 11km.              Công trình qúy giá này gồm hơn 100 tác phẩm kiến trúc, đã thực              sự phản ánh được cuộc sống của vua quan nhà Nguyễn. Giữa những              quả đồi ở bờ Nam sông Hương là những lăng tẩm rất đẹp của các              vua Nguyễn. Trong số đó nổi tiếng nhất là bốn lăng tẩm mà mỗi              lăng được biết đến với cái tên phù hợp với tính cách của mỗi              vua và kiểu kiến trúc của mỗi lăng. Ðó là lăng Gia Long uy              nghi, lăng Minh Mạng oai phong, lăng Tự Ðức thơ mộng và lăng              Khải Ðịnh tráng lệ.            </span></em          ></span        >      </div>      <p style=\"text-align: justify;\">        <strong          ><span style=\"font-size: small;\"            >Đêm 01 :&nbsp; Hà Nội - Huế ( Ngủ đêm trên xe hoặc tàu            hoả)</span          ></strong        ><span style=\"font-size: small;\"          ><br />          <br />          <em            ><u              >Lựa chọn 01: Đi bằng Ôtô<img                width=\"200\"                vspace=\"3\"                hspace=\"8\"                height=\"133\"                align=\"right\"                src=\"https://tour.dulichvietnam.com.vn/uploads/dai-noi-hue(3).jpg\"                alt=\"Đại Nội Huế\" /></u></em          ><br />          <strong>18h00 :</strong> Xe Open bus (Xe 45 chỗ, điều hoà, ghế          ngả) đón quý khách tại điểm hẹn, khởi hành đi          <strong>du lịch Huế</strong>. Quý khách ngủ đêm trên xe (các điểm          dừng chân trong hành trình: Ninh Bình (10h00); Vinh (1h00 sáng);          Đồng Hới (6h00 sáng); Đông Hà (7h00 sáng), Huế (9h00)<br />          <br />          <u><em>Lựa chọn 02: Đi bằng Tàu hỏa</em></u          ><br />          Quý khách có thể đáp chuyến tàu SE1( khởi hành từ hà nội lúc 19h00          đến Huế lúc 7h37 ), SE3 (khởi hành từ Hà Nội lúc 23h00 đến Huế lúc          10h34 ), khởi hành đi Huế, ngủ đêm trên tàu<br />          <br />          <strong            >Ngày 01 : Thành phố Huế - Du Thuyền Sông Hương (Ăn sáng, trưa            )</strong          ></span        ><span style=\"font-size: small;\"          ><br />          <br />          <strong>08h30:</strong> Đến Huế quý khách về khách sạn nhận phòng          nghỉ ngơi, ăn sáng.<br />          <strong>Chiều: </strong>Xe và hướng dẫn viên đón quý khách tại          khách sạn di tham quan</span        ><span style=\"font-size: small;\"          ><span style=\"font-size: small;\"            ><img              width=\"200\"              vspace=\"5\"              hspace=\"5\"              height=\"137\"              align=\"right\"              alt=\"Sông hương Huế\"              src=\"https://tour.dulichvietnam.com.vn/uploads/song-huong(1).jpeg\"          /></span>          <em            ><strong              >thành phố Huế, tham quan cầu Trường Tiền, Đại Nội Kinh Thành              của các vị vua Nguyễn, thăm Ngọ Môn, Điện Thái Hoà, Tử Cấm              Thành, Hồ Tĩnh Tâm, Thế Miếu, Hiển Lâm Các, Cửu              Đỉnh...</strong            ></em          >. . Tiếp tục chương trình quý khách </span        ><span style=\"font-size: small;\"          >ra bến thuyền xuôi theo dòng sông Hương thơ mộng ngắm cảnh làng          quê đôi bờ trù phú, ghé thăm chùa Thiên Mụ với ngọn tháp Phước          Duyên hình bát giác cao 20 m gồm 7 tầng. Kết thúc chương trình xe          trả khách về lại khách sạn. Quý khách ăn tối tại khách sạn.<br />          <strong>Tối : </strong>Tự do dạo thưởng thức các món ăn đặc sản xứ          Huế, chè hẻm, cơm hến ... ngắm thành phố Huế về đêm, nghỉ đêm tại          khách sạn<br />          Lựa chọn : Nghe ca Huế và thả đèn hoa đăng trên dòng sông Hương          thơ mộng (chi phí đã bao gồm trong chương trình)<br />          <br />          <strong>Ngày 02 : Thăm Quan Cố Đô Huế (Ăn sáng, trưa)</strong          ><br />          <br />          <strong>Sáng: </strong>Sau khi ăn sáng, xe và HDV đón quý khách          khởi hành đi tham quan <strong>cố đô Huế</strong>, thăm          <strong>Lăng vua Tự Đức</strong> nằm giữa rừng thông bát ngát thơ          mộng phù hợp với tính cách lãng mạn của Vua Tự Đức, tiếp tục thăm          <strong>Lăng </strong><strong>Vua Khải Định</strong> với kiến trúc          văn hoá Đông Tây tinh xảo. Cuộc hành trình </span        ><span style=\"font-size: small;\"          ><img            width=\"200\"            vspace=\"5\"            hspace=\"5\"            height=\"140\"            align=\"right\"            alt=\"du lịch Huế\"            src=\"https://tour.dulichvietnam.com.vn/uploads/hue2(3).jpg\" /></span        ><span style=\"font-size: small;\"          >đưa quý khách thăm<strong> Lăng Vua Minh Mạng</strong>, vị Vua          không những nổi tiếng vì nhiều cung tần mỹ nữ mà ông còn để lại          cho thế hệ sau này một khu di tích trên 20 công trình lớn nhỏ. Quý          khách nghỉ ngơi ăn trưa<br />          <strong>Chiều:</strong> Tự do thuê xích lô dạo chơi, hoặc quý          khách có thể thuê xe máy đi tắm <strong>biển Thuận An,</strong> tự          do thăm thôn Vĩ Dạ hoặc tản bộ trên con đường mang tên nhà thơ tài          hoa Hàn Mặc Tử.<br />          <strong>17h00: </strong>Xe &amp; hướng dẫn OPENTOUR đưa quý khách          ra điểm đỗ của xe (hoặc nhà ga). Quý khách lên xe (hoặc tàu) khởi          hành về Hà Nội. Ăn tối trên xe (hoặc tàu)<br />          <br />          <strong>Ngày 03 : Huế - Hà Nội</strong><br />          <br />          <strong>Sáng:</strong> 6h30 - 7h00 Quý khách về tới Hà nội. Chia          tay và hẹn gặp lại quý khách trong hành trình tiếp theo. Kết thúc          chuyến du lịch</span        >      </p>      <p style=\"text-align: center;\">        <span style=\"color: rgb(255, 0, 0);\"          ><span style=\"font-size: medium;\"            ><span style=\"font-family: Arial;\"              ><b>GIÁ TOUR ÁP DỤNG: VNĐ/KHÁCH</b></span            ></span          ></span        ><span style=\"font-family: Arial;\"          ><b            ><font size=\"2\"><br /> </font></b></span        ><span style=\"font-size: small;\"          ><span style=\"font-family: Arial;\"            ><span style=\"font-family: Arial;\"              ><span style=\"color: rgb(0, 0, 0);\"                ><span                  style=\"                    font-family: Arial, Verdana, Helvetica, sans-serif;                    line-height: 20px;                    text-indent: 5px;                  \"                  ><span style=\"font-family: Arial;\"                    ><em                      >(Giá áp dụng cho khách lẻ. Khách đoàn vui lòng liên                      hệ để có giá tốt nhất)</em                    ><br />                    Tư vấn &amp; đặt tour:                  </span></span                ><span                  style=\"                    font-family: Arial, Verdana, Helvetica, sans-serif;                    line-height: 20px;                    text-indent: 5px;                  \"                  ><span style=\"font-family: Arial;\"                    ><strong>0942 537 478</strong></span                  ></span                ></span              ><span style=\"font-family: Arial;\"                ><b> / 0918 205 665</b></span              ></span            ></span          ></span        ><span style=\"font-family: Arial;\"><font size=\"2\"> </font></span>      </p>          <h3>        <span style=\"font-family: Arial;\"          ><u            ><strong>              <font size=\"2\">Giá du lịch Huế bao gồm: </font></strong            ></u          ></span        >      </h3>      <ul>        <li style=\"text-align: justify;\">          <span style=\"font-size: small;\"            >Vận chuyển: Xe đời mới có máy lạnh (đưa đón tham quan theo            chương trình), Xe Open bus là xe Aero Space 45 chỗ, điều hòa,            ghế ngả.<br />          </span>        </li>        <li style=\"text-align: justify;\">          <span style=\"font-size: small;\">            Khách sạn: Tiêu chuẩn phòng: (2-3 người/1 phòng); Phòng khép kín            có tivi, điều hòa, điện thoại.<br />          </span>        </li>        <li style=\"text-align: justify;\">          <span style=\"font-size: small;\">            Hướng dẫn viên thuyết minh giới thiệu trong các ngày thăm            quan<br />          </span>        </li>        <li style=\"text-align: justify;\">          <span style=\"font-size: small;\">            Vé thăm quan: Bao gồm tất cả vé thăm quan tại các điểm trong            chương trình<br />          </span>        </li>        <li style=\"text-align: justify;\">          <span style=\"font-size: small;\">            Các bữa ăn sáng và chính như trong chương trình<br />          </span>        </li>      </ul>      <h3>        <span style=\"font-size: small;\">          <u><b>Tour du lịch Huế không bao gồm:</b></u          ><br />        </span>      </h3>      <ul>        <li>          <span style=\"font-size: small;\"            >Chi tiêu cá nhân (giặt là, điện thoại, các dịch vụ ngoài chương            trình)</span          >        </li>        <li>          <span style=\"font-size: small;\">            Vé tàu Hà nội - Huế - Hà Nội<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Đồ uống và bảo hiểm du lịch<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Các chương trình lựa chọn: Nếu Quý khách có thời gian ở lại Huế,            các điểm có thể lựa chọn thăm quan trong hành trình:<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Thuê xe máy hoặc ôtô đưa quý khách đi tắm biển Thuận An cách Huế            12km<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Thăm quan Chiến trường Quảng Trị xưa – Chương trình 1 ngày, khởi            hành và kết thúc tai Huế<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Thăm quan Động Phong Nha, di sản thiên nhiên thế giới<br />          </span>        </li>        <li>          <span style=\"font-size: small;\">            Thăm quan rừng quốc gia Bạch Mã, cách thành phố Huế 40 km, nằm ở            độ cao trên 1.500m<br />          </span>        </li>        <li>          <span style=\"font-size: small;\"> Thăm và tắm biển Lăn</span          ><span style=\"font-size: small;\"            >g Cô, một trong các bãi biển đẹp của dải đất miên            Trung&nbsp;</span          ><span style=\"font-size: small;\"            ><span style=\"font-family: Arial;\"              ><u                ><strong><br /> </strong></u></span          ></span>        </li>      </ul>      <span style=\"font-weight: bold;\">        ----------------------------------- <br /> </span      >      <p class=\"MsoNormal\">        <strong          ><span style=\"font-size: small;\"            ><span style=\"font-family: Arial;\"              >         </li>        </ul>      </div>    </div>    <div      class=\"tab-pane fade\"      id=\"pills-2\"      role=\"tabpanel\"      aria-labelledby=\"pills-profile-tab\"    ></div>  </div>"
+    },
+    {
+      "id": "12",
+      "idTour": "12",
+      "conten": "<h3 class= \"text-primary mt-4 \">Tổng quan du lịch Đà Lạt</h3><div class= \"tourSchedule \"><p>Đà Lạt là thủ phủ của tỉnh Lâm Đồng. Với độ cao 1.500 m trên mặt nước biển, Đà Lạt tiết trời mát lạnh và là nơi nghỉ dưỡng lý tưởng ở khu vực miền Nam. Từng một thời nổi tiếng với các điểm tham quan như Thung lũng Tình Yêu, Hồ Than Thở, Đồi Thông Hai Mộ, Thác Voi…, Đà Lạt ngày nay không còn giữ được vẻ hoang sơ như xưa. Các điểm tham quan chính hiện nay khi du lịch Đà Lạt gồm có Hồ Xuân Hương, Đỉnh Langbiang, Dinh Bảo Đại, Biệt Điện Trần Lệ Xuân, Thiền Viện Trúc Lâm, Hồ Tuyền Lâm, nhà ga Đà Lạt (Nhà ga Trại Mát)… Chỉ cách Sài Gòn chừng 300km, thành phố Đà Lạt là nơi nghỉ dưỡng tuyệt vời, giúp du khách thoát khỏi cái oi bức nóng nực của vùng đồng bằng Nam Bộ.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Vườn Thượng Uyển Bay Đà Lạt: </strong>Cách trung tâm thành phố Đà Lạt khoảng 50km, thác Pongour còn được biết đến với danh hiệu “Nam thiên đệ nhất thác”, gây ấn tượng mạnh mẽ với du khách bởi vẻ đẹp kì vĩ của mình. Tuy một phần của thác đã được sử dụng cho mục đích thủy điện, nhưng với những dòng chảy bậc thềm đặc trưng, thác vẫn là nơi dừng chân lý tưởng của nhiều du khách. Đây là một trong những địa điểm du lịch Đà Lạt được rất nhiều du khách lựa chọn khi tham quan tuyến đường theo hướng phía Nam thành phố Đà Lạt.<img class=\"mt-2\" src=\"https://vyctravel.com/libs/upload/ckfinder/images/da_lat/vuon%20thuong%20uyen%20bay%204.jpg\"></p><p>- <strong> Thác Pongour:</strong>Phong cảnh thiên nhiên hoang sơ, tuyệt đẹp của Tràng An đã đượcUNESCO công nhận là di sản thiên nhiên và di sản văn hóa thế giới.Khung cảnh nơi đây được tạo nên từ dòng sông chạy uốn lượn qua các dãy núi đá vôi, tạo thành vô vàn những hang động tự nhiên huyền ảo, kỳ bí.<img class=\"mt-2\" src=\"https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-da-lat.jpg\"></p><p>- <strong> Thác Datanla: </strong>Nằm giữa cung đèo Prenn, thác Datanla được biết đến là một trong những con thác vẫn còn giữ được nét đẹp hoang sơ. Nước đổ xuống từng tầng bậc đá chênh nhau khiến con thác trông từ xa như một tấm lụa trắng ngần giữa trời. Khi tham quan thác Datanla, du khách có cơ hội được trải nghiệm việc di chuyển bằng xe trượt, luồn lách giữa rừng thông và hoa cỏ thiên nhiên tươi đẹp. Đây cũng là một trong những địa điểm du lịch được rất nhiều du khách lựa chọn khi tham gia tour nội thành Đà Lạt 1 ngày.<img class=\"mt-2\" src=\"https://happydaytravel.com/wp-content/uploads/2019/03/image5-compressed.jpg\"></p><p>- <strong> Thiền viện Trúc Lâm: </strong>Thiền Viện Trúc Lâm Đà Lạt là ngôi thiền viện theo thiền phái Trúc Lâm Yên Tử được xây dựng tại Đà Lạt và là thiện viện lớn nhất Việt Nam hiện nay. Bên cạnh đó ngôi thiền viện này cũng là một trong những điểm tham quan thu hút nhiều du khách nhất tại Đà Lạt.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/08/thien-vien-truc-lam-phuong-hoang-da-lat.jpg\"></p><p>Tọa lạc trên núi Phụng Hoàng, phia dưới là hồ Tuyền Lâm quanh năm thơ mộng và cách trung tâm thành phố Đà Lạt 5km về hướng Nam. Thiền Viện Trúc Lâm Đà Lạt được khởi công xây dựng từ đầu năm 1993 đến cuối năm 1994 thì hoàn thành các giải đoạn cơ bản. Bản thiết kế của ngôi thiền viện có sự giúp đỡ của kiến trúc sư nổi tiếng Việt Nam cũng như thế giới, kiến trúc sư Ngô Viết Thụ và hai kiến trúc sư khác là triến trúc sư Vũ Xuân Hùng và Trần Đức Lộc. Tất cả ý tưởng ban đầu đều do hòa thưởng Thích Thanh Từ quy hoạch và kêu gọi phật tử mọi miền đóng góp.</p><p>Tổng quan Thiền Viện Trúc Lâm được chia làm 3 khu vực chính, đó là khu vực ngoại viện bao gồm khuôn viên cây cảnh, chánh điện, sân đậu xe và hồ Tịnh Tâm. Khu vực nội viện tăng tọa lạc bên phải trước chánh điện, đây là nơi tu tấp của các Nam tăng du khách thập phương không được phép vào tham quan. Khu vực nội viện Ni nằm bên phải chánh điện, phía trên nội viện tăng, đây là khu vực tu tập của các nữ chư tăng và cũng không có du khách thập phương tham quan. Thiền Viện Trúc Lâm được sáng lập bởi hòa thượng Thích Thanh Từ và ông cũng chính là trụ trì đầu tiên của ngôi Thiền Viện này, những năm gần đây do tuổi già sức yếu, hòa thượng Thích Thanh Từ đã trở về Thiện Viện Trúc Lâm Vũng Tàu để an dưỡng và giao trọng trách lại cho hòa thượng Thích Thông Phương quản lý, đây cũng là đệ tử thân cận nhất của ngài Thích Thanh Từ.</p><p>- <strong> Nhà thờ Con Gà: </strong>Nhà thờ con Gà Đà Lạt còn có tên gọi khác là nhà thờ chánh tòa, đây là nhà thờ công giáo lớn nhất tại thành phố Đà Lạt hiện nay. Ngoài chức năng là một nhà thờ tôn giáo, nơi này còn là một điểm tham quan du lịch hấp dẫn đối với rất nhiều du khách gần xa.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/02/nha-tho-con-ga.jpg\"></p><p>Tọa lạc tại đường Trần Phú trung tâm của thành phố Đà Lạt, nhà thờ con Gà là một trong những công trình kiến trúc cổ xưa đầu tiên được người Pháp xây dựng tại Đà Lạt.</p><p>Tổng quan về kiến trúc của nhà thờ con Gà theo trường phái Roma ở Châu Âu, đây là một dạng kiến trúc tiêu biểu cho trường phái kiến trúc Roman. Móng của nhà thờ con Gà được thiết kế theo hình chữ thập dài 65m, chiều rộng 14, và tháp chuông phía trước nhà thờ cao 47m, trên đỉnh của tháp chuông có gắn một bức tượng Gà trống Goloa biểu tượng của nước Pháp cao 60cm, đây cũng chính là lý do nhà thờ này lại có tên gọi là nhà thờ con Gà. Ngoài ra còn một điều đặc biệt hơn nữa, nếu đứng trên tháp chuông của nhà thờ bạn có thể nhìn được toàn cảnh thành phố Đà Lạt, núi Langbiang và các khu vực lân cận.Bên trong thánh đường của nhà thờ được chia làm 3 gian, gian ở giữa được sắp xếp các dãy bàn ghế cầu nguyện, chánh điện và hai bên hông nhà thờ được thiết kế các bàn ghế phụ và lối đi. Trên trần nhà giáp mái là những tấm kính màu, những tấm kính này đều được đặt mua trực tiếp từ Pháp mang về phục vụ cho việc xây dựng nhà thờ, anh sáng chiếu qua những tấm kính làm cho khung cảnh của thánh đường thêm phần mở ảo, đẹp mắt.Mỗi dịp giáng sinh về, nhà thờ chánh tòa Đà Lạt lại lung linh huyền ảo, thu hút hàng ngàn du khách đến tham dự. Những ngày thường bạn có thể ghé thăm nhà thờ miễn phí, nếu may mắn đi đúng vào thời gian làm lễ, bạn có thể vào thẳng khu thánh đường để chiêm ngưỡng toàn bộ kiến trúc bên trong của nhà thờ.</p><p>- <strong> Trường cao đẳng sư phạm Đà Lạt: </strong>Được người Pháp xây dựng và thành lập vào năm 1927, trường cao đẳng sư phạm Đà Lạt đến nay vẫn là một trong những ngôi trường có kiến trúc đẹp nhất Việt Nam. Vẻ đẹp thơ mộng đậm chất châu Âu cổ điển của nơi đây thu hút vô vàn lượng du khách ghé thăm mỗi năm. Ngoài ra, đây cũng là một trong những biểu tượng nổi tiếng mỗi khi ai đó nhắc về Đà Lạt.<img class=\"mt-2\" src=\"https://toquoc.mediacdn.vn/2018/11/30/truong-cao-dang-su-pham-da-lat-noi-u-hoai-cua-thieu-nu-xinh-dep-ngu-quen-tren-cao-nguyen-mo-suong5-1543588050889764954102.jpg\"></p><p>- <strong> Bảo tàng Lâm Đồng: </strong>Nếu bạn là người yêu thích những giá trị văn hóa của Đà Lạt, thì Bảo tàng Lâm Đồng là nơi thích hợp dành cho bạn. Nơi đây hiện lưu giữ rất nhiều những hiện vật truyền thống cũng như những vẻ đẹp văn hóa bao đời nay của người dân Lâm Đồng.<img class=\"mt-2\" src=\"http://vietnamtourism.gov.vn/images/2016/anhInternet/TrienlammythuatDNB.jpg\"></p><p>- <strong> Vườn hoa thành phố: </strong>Là điểm đến nổi tiếng bậc nhất của thành phố Đà Lạt, bên cạnh hồ Xuân Hương trữ tình là vườn hoa của thành phố. Rất nhiều loại hoa đẹp, hoa quý của Đà Lạt đều rực rỡ khoe sắc ở nơi đây, mang đến cho thành phố những mảng màu tươi sáng và tuyệt sắc. Bên trong vườn hoa, rất nhiều tiểu cảnh được dựng lên bởi bàn tay khéo léo của con người, giúp du khách lưu lại những khoảnh khắc ấn tượng và đẹp nhất.<img class=\"mt-2\" src=\"https://dalattrongtoi.com/media/upload/images/bai-viet/V%C6%B0%E1%BB%9Dn%20Hoa%20Th%C3%A0nh%20Ph%E1%BB%91%20%C4%90%C3%A0%20L%E1%BA%A1t%20(2).jpg\"></p><p>- <strong> Hồ Than Thở: </strong>Đẹp như bức thủy mặc ai lỡ đánh rơi, hồ Than Thở luôn là biểu tượng đẹp khi nhắc đến Đà Lạt. Người dân sinh sống nơi đây còn gọi hồ bằng một cái tên khác thanh khiết hơn là - hồ Sương Mai. Sở dĩ hồ mang cái tên như thế vì mỗi buổi sáng nơi đây chẳng khác chi chốn tiên cảnh, khi những làn sương bảng lảng vẫn chưa tan, rong chơi trên mặt nước, tạo nên nét đẹp bồng bềnh đầy hư ảo. Đến với hồ Than Thở, du khách còn có cơ hội tìm hiểu về những câu chuyện gắn với địa danh này.<img class=\"mt-2\" src=\"https://dulichkhampha24.com/wp-content/uploads/2019/11/ho-than-tho-da-lat-1.jpg\"></p><p>- <strong> Núi Langbiang: </strong>Ai đến Đà Lạt mà chưa một lần muốn ghé đến Langbiang? Là đỉnh núi cao nhất Đà Lạt, từ nơi đây, bạn có thể thu vào tầm mắt toàn cảnh của phố núi, ngẩn ngơ trước vẻ đẹp hòa quyện của đồi núi và mây trời. Đến Đà Lạt, ghé thăm đỉnh Langbiang, bạn còn có cơ hội được biết về câu chuyện tình đầy thơ mộng nhưng cũng rất bi thương của chàng Lang và nàng Biang khi xưa.<img class=\"mt-2\" src=\"https://dalatpalace.vn/wp-content/uploads/2019/09/langbiang-o-dau-1024x500.jpg\"></p><p>- <strong>Thung Lũng Tình Yêu: </strong>Ngay từ cái tên cũng đã phần nào thể hiện được cái thơ, cái tình tứ của nơi này. Tọa lạc cách trung tâm thành phố tầm 7km, Thung lũng Tình Yêu là địa điểm thơ mộng bậc nhất xứ núi mà du khách, đặc biệt là các cặp đôi không nên bỏ qua. Đến nơi đây, ngoài muôn vàn những loài hoa đẹp, du khách còn có cơ hội chiêm ngưỡng và lưu lại những khoảnh khắc bên những tiểu cảnh xinh đẹp tượng trưng cho tình yêu đôi lứa.<img class=\"mt-2\" src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2015/12/thung-lung-tinh-yeu.png\"></p></div>"
+    },
+    {
+      "id": "14",
+      "idTour": "14",
+      "conten": "<h3 class= \"text-primary mt-4 \">Tổng quan du lịch Đà Lạt</h3><div class= \"tourSchedule \"><p>Đà Lạt là thủ phủ của tỉnh Lâm Đồng. Với độ cao 1.500 m trên mặt nước biển, Đà Lạt tiết trời mát lạnh và là nơi nghỉ dưỡng lý tưởng ở khu vực miền Nam. Từng một thời nổi tiếng với các điểm tham quan như Thung lũng Tình Yêu, Hồ Than Thở, Đồi Thông Hai Mộ, Thác Voi…, Đà Lạt ngày nay không còn giữ được vẻ hoang sơ như xưa. Các điểm tham quan chính hiện nay khi du lịch Đà Lạt gồm có Hồ Xuân Hương, Đỉnh Langbiang, Dinh Bảo Đại, Biệt Điện Trần Lệ Xuân, Thiền Viện Trúc Lâm, Hồ Tuyền Lâm, nhà ga Đà Lạt (Nhà ga Trại Mát)… Chỉ cách Sài Gòn chừng 300km, thành phố Đà Lạt là nơi nghỉ dưỡng tuyệt vời, giúp du khách thoát khỏi cái oi bức nóng nực của vùng đồng bằng Nam Bộ.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Vườn Thượng Uyển Bay Đà Lạt: </strong>Cách trung tâm thành phố Đà Lạt khoảng 50km, thác Pongour còn được biết đến với danh hiệu “Nam thiên đệ nhất thác”, gây ấn tượng mạnh mẽ với du khách bởi vẻ đẹp kì vĩ của mình. Tuy một phần của thác đã được sử dụng cho mục đích thủy điện, nhưng với những dòng chảy bậc thềm đặc trưng, thác vẫn là nơi dừng chân lý tưởng của nhiều du khách. Đây là một trong những địa điểm du lịch Đà Lạt được rất nhiều du khách lựa chọn khi tham quan tuyến đường theo hướng phía Nam thành phố Đà Lạt.<img class=\"mt-2\" src=\"https://vyctravel.com/libs/upload/ckfinder/images/da_lat/vuon%20thuong%20uyen%20bay%204.jpg\"></p><p>- <strong> Thác Pongour:</strong>Phong cảnh thiên nhiên hoang sơ, tuyệt đẹp của Tràng An đã đượcUNESCO công nhận là di sản thiên nhiên và di sản văn hóa thế giới.Khung cảnh nơi đây được tạo nên từ dòng sông chạy uốn lượn qua các dãy núi đá vôi, tạo thành vô vàn những hang động tự nhiên huyền ảo, kỳ bí.<img class=\"mt-2\" src=\"https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-da-lat.jpg\"></p><p>- <strong> Thác Datanla: </strong>Nằm giữa cung đèo Prenn, thác Datanla được biết đến là một trong những con thác vẫn còn giữ được nét đẹp hoang sơ. Nước đổ xuống từng tầng bậc đá chênh nhau khiến con thác trông từ xa như một tấm lụa trắng ngần giữa trời. Khi tham quan thác Datanla, du khách có cơ hội được trải nghiệm việc di chuyển bằng xe trượt, luồn lách giữa rừng thông và hoa cỏ thiên nhiên tươi đẹp. Đây cũng là một trong những địa điểm du lịch được rất nhiều du khách lựa chọn khi tham gia tour nội thành Đà Lạt 1 ngày.<img class=\"mt-2\" src=\"https://happydaytravel.com/wp-content/uploads/2019/03/image5-compressed.jpg\"></p><p>- <strong> Thiền viện Trúc Lâm: </strong>Thiền Viện Trúc Lâm Đà Lạt là ngôi thiền viện theo thiền phái Trúc Lâm Yên Tử được xây dựng tại Đà Lạt và là thiện viện lớn nhất Việt Nam hiện nay. Bên cạnh đó ngôi thiền viện này cũng là một trong những điểm tham quan thu hút nhiều du khách nhất tại Đà Lạt.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/08/thien-vien-truc-lam-phuong-hoang-da-lat.jpg\"></p><p>Tọa lạc trên núi Phụng Hoàng, phia dưới là hồ Tuyền Lâm quanh năm thơ mộng và cách trung tâm thành phố Đà Lạt 5km về hướng Nam. Thiền Viện Trúc Lâm Đà Lạt được khởi công xây dựng từ đầu năm 1993 đến cuối năm 1994 thì hoàn thành các giải đoạn cơ bản. Bản thiết kế của ngôi thiền viện có sự giúp đỡ của kiến trúc sư nổi tiếng Việt Nam cũng như thế giới, kiến trúc sư Ngô Viết Thụ và hai kiến trúc sư khác là triến trúc sư Vũ Xuân Hùng và Trần Đức Lộc. Tất cả ý tưởng ban đầu đều do hòa thưởng Thích Thanh Từ quy hoạch và kêu gọi phật tử mọi miền đóng góp.</p><p>Tổng quan Thiền Viện Trúc Lâm được chia làm 3 khu vực chính, đó là khu vực ngoại viện bao gồm khuôn viên cây cảnh, chánh điện, sân đậu xe và hồ Tịnh Tâm. Khu vực nội viện tăng tọa lạc bên phải trước chánh điện, đây là nơi tu tấp của các Nam tăng du khách thập phương không được phép vào tham quan. Khu vực nội viện Ni nằm bên phải chánh điện, phía trên nội viện tăng, đây là khu vực tu tập của các nữ chư tăng và cũng không có du khách thập phương tham quan. Thiền Viện Trúc Lâm được sáng lập bởi hòa thượng Thích Thanh Từ và ông cũng chính là trụ trì đầu tiên của ngôi Thiền Viện này, những năm gần đây do tuổi già sức yếu, hòa thượng Thích Thanh Từ đã trở về Thiện Viện Trúc Lâm Vũng Tàu để an dưỡng và giao trọng trách lại cho hòa thượng Thích Thông Phương quản lý, đây cũng là đệ tử thân cận nhất của ngài Thích Thanh Từ.</p><p>- <strong> Nhà thờ Con Gà: </strong>Nhà thờ con Gà Đà Lạt còn có tên gọi khác là nhà thờ chánh tòa, đây là nhà thờ công giáo lớn nhất tại thành phố Đà Lạt hiện nay. Ngoài chức năng là một nhà thờ tôn giáo, nơi này còn là một điểm tham quan du lịch hấp dẫn đối với rất nhiều du khách gần xa.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/02/nha-tho-con-ga.jpg\"></p><p>Tọa lạc tại đường Trần Phú trung tâm của thành phố Đà Lạt, nhà thờ con Gà là một trong những công trình kiến trúc cổ xưa đầu tiên được người Pháp xây dựng tại Đà Lạt.</p><p>Tổng quan về kiến trúc của nhà thờ con Gà theo trường phái Roma ở Châu Âu, đây là một dạng kiến trúc tiêu biểu cho trường phái kiến trúc Roman. Móng của nhà thờ con Gà được thiết kế theo hình chữ thập dài 65m, chiều rộng 14, và tháp chuông phía trước nhà thờ cao 47m, trên đỉnh của tháp chuông có gắn một bức tượng Gà trống Goloa biểu tượng của nước Pháp cao 60cm, đây cũng chính là lý do nhà thờ này lại có tên gọi là nhà thờ con Gà. Ngoài ra còn một điều đặc biệt hơn nữa, nếu đứng trên tháp chuông của nhà thờ bạn có thể nhìn được toàn cảnh thành phố Đà Lạt, núi Langbiang và các khu vực lân cận.Bên trong thánh đường của nhà thờ được chia làm 3 gian, gian ở giữa được sắp xếp các dãy bàn ghế cầu nguyện, chánh điện và hai bên hông nhà thờ được thiết kế các bàn ghế phụ và lối đi. Trên trần nhà giáp mái là những tấm kính màu, những tấm kính này đều được đặt mua trực tiếp từ Pháp mang về phục vụ cho việc xây dựng nhà thờ, anh sáng chiếu qua những tấm kính làm cho khung cảnh của thánh đường thêm phần mở ảo, đẹp mắt.Mỗi dịp giáng sinh về, nhà thờ chánh tòa Đà Lạt lại lung linh huyền ảo, thu hút hàng ngàn du khách đến tham dự. Những ngày thường bạn có thể ghé thăm nhà thờ miễn phí, nếu may mắn đi đúng vào thời gian làm lễ, bạn có thể vào thẳng khu thánh đường để chiêm ngưỡng toàn bộ kiến trúc bên trong của nhà thờ.</p><p>- <strong> Trường cao đẳng sư phạm Đà Lạt: </strong>Được người Pháp xây dựng và thành lập vào năm 1927, trường cao đẳng sư phạm Đà Lạt đến nay vẫn là một trong những ngôi trường có kiến trúc đẹp nhất Việt Nam. Vẻ đẹp thơ mộng đậm chất châu Âu cổ điển của nơi đây thu hút vô vàn lượng du khách ghé thăm mỗi năm. Ngoài ra, đây cũng là một trong những biểu tượng nổi tiếng mỗi khi ai đó nhắc về Đà Lạt.<img class=\"mt-2\" src=\"https://toquoc.mediacdn.vn/2018/11/30/truong-cao-dang-su-pham-da-lat-noi-u-hoai-cua-thieu-nu-xinh-dep-ngu-quen-tren-cao-nguyen-mo-suong5-1543588050889764954102.jpg\"></p><p>- <strong> Bảo tàng Lâm Đồng: </strong>Nếu bạn là người yêu thích những giá trị văn hóa của Đà Lạt, thì Bảo tàng Lâm Đồng là nơi thích hợp dành cho bạn. Nơi đây hiện lưu giữ rất nhiều những hiện vật truyền thống cũng như những vẻ đẹp văn hóa bao đời nay của người dân Lâm Đồng.<img class=\"mt-2\" src=\"http://vietnamtourism.gov.vn/images/2016/anhInternet/TrienlammythuatDNB.jpg\"></p><p>- <strong> Vườn hoa thành phố: </strong>Là điểm đến nổi tiếng bậc nhất của thành phố Đà Lạt, bên cạnh hồ Xuân Hương trữ tình là vườn hoa của thành phố. Rất nhiều loại hoa đẹp, hoa quý của Đà Lạt đều rực rỡ khoe sắc ở nơi đây, mang đến cho thành phố những mảng màu tươi sáng và tuyệt sắc. Bên trong vườn hoa, rất nhiều tiểu cảnh được dựng lên bởi bàn tay khéo léo của con người, giúp du khách lưu lại những khoảnh khắc ấn tượng và đẹp nhất.<img class=\"mt-2\" src=\"https://dalattrongtoi.com/media/upload/images/bai-viet/V%C6%B0%E1%BB%9Dn%20Hoa%20Th%C3%A0nh%20Ph%E1%BB%91%20%C4%90%C3%A0%20L%E1%BA%A1t%20(2).jpg\"></p><p>- <strong> Hồ Than Thở: </strong>Đẹp như bức thủy mặc ai lỡ đánh rơi, hồ Than Thở luôn là biểu tượng đẹp khi nhắc đến Đà Lạt. Người dân sinh sống nơi đây còn gọi hồ bằng một cái tên khác thanh khiết hơn là - hồ Sương Mai. Sở dĩ hồ mang cái tên như thế vì mỗi buổi sáng nơi đây chẳng khác chi chốn tiên cảnh, khi những làn sương bảng lảng vẫn chưa tan, rong chơi trên mặt nước, tạo nên nét đẹp bồng bềnh đầy hư ảo. Đến với hồ Than Thở, du khách còn có cơ hội tìm hiểu về những câu chuyện gắn với địa danh này.<img class=\"mt-2\" src=\"https://dulichkhampha24.com/wp-content/uploads/2019/11/ho-than-tho-da-lat-1.jpg\"></p><p>- <strong> Núi Langbiang: </strong>Ai đến Đà Lạt mà chưa một lần muốn ghé đến Langbiang? Là đỉnh núi cao nhất Đà Lạt, từ nơi đây, bạn có thể thu vào tầm mắt toàn cảnh của phố núi, ngẩn ngơ trước vẻ đẹp hòa quyện của đồi núi và mây trời. Đến Đà Lạt, ghé thăm đỉnh Langbiang, bạn còn có cơ hội được biết về câu chuyện tình đầy thơ mộng nhưng cũng rất bi thương của chàng Lang và nàng Biang khi xưa.<img class=\"mt-2\" src=\"https://dalatpalace.vn/wp-content/uploads/2019/09/langbiang-o-dau-1024x500.jpg\"></p><p>- <strong>Thung Lũng Tình Yêu: </strong>Ngay từ cái tên cũng đã phần nào thể hiện được cái thơ, cái tình tứ của nơi này. Tọa lạc cách trung tâm thành phố tầm 7km, Thung lũng Tình Yêu là địa điểm thơ mộng bậc nhất xứ núi mà du khách, đặc biệt là các cặp đôi không nên bỏ qua. Đến nơi đây, ngoài muôn vàn những loài hoa đẹp, du khách còn có cơ hội chiêm ngưỡng và lưu lại những khoảnh khắc bên những tiểu cảnh xinh đẹp tượng trưng cho tình yêu đôi lứa.<img class=\"mt-2\" src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2015/12/thung-lung-tinh-yeu.png\"></p></div>"
+    },
+    {
+      "id": "15",
+      "idTour": "15",
+      "conten": "<h3 class= \"text-primary mt-4 \">Tổng quan du lịch Đà Lạt</h3><div class= \"tourSchedule \"><p>Đà Lạt là thủ phủ của tỉnh Lâm Đồng. Với độ cao 1.500 m trên mặt nước biển, Đà Lạt tiết trời mát lạnh và là nơi nghỉ dưỡng lý tưởng ở khu vực miền Nam. Từng một thời nổi tiếng với các điểm tham quan như Thung lũng Tình Yêu, Hồ Than Thở, Đồi Thông Hai Mộ, Thác Voi…, Đà Lạt ngày nay không còn giữ được vẻ hoang sơ như xưa. Các điểm tham quan chính hiện nay khi du lịch Đà Lạt gồm có Hồ Xuân Hương, Đỉnh Langbiang, Dinh Bảo Đại, Biệt Điện Trần Lệ Xuân, Thiền Viện Trúc Lâm, Hồ Tuyền Lâm, nhà ga Đà Lạt (Nhà ga Trại Mát)… Chỉ cách Sài Gòn chừng 300km, thành phố Đà Lạt là nơi nghỉ dưỡng tuyệt vời, giúp du khách thoát khỏi cái oi bức nóng nực của vùng đồng bằng Nam Bộ.</p></div></div><div class= \"tourDetailheadLine \"><h3 class= \"text-primary mt-4 \">Những trải nghiệm thú vị trong chương trình</h3><div class= \"tourSchedule \"><p>- <strong> Vườn Thượng Uyển Bay Đà Lạt: </strong>Cách trung tâm thành phố Đà Lạt khoảng 50km, thác Pongour còn được biết đến với danh hiệu “Nam thiên đệ nhất thác”, gây ấn tượng mạnh mẽ với du khách bởi vẻ đẹp kì vĩ của mình. Tuy một phần của thác đã được sử dụng cho mục đích thủy điện, nhưng với những dòng chảy bậc thềm đặc trưng, thác vẫn là nơi dừng chân lý tưởng của nhiều du khách. Đây là một trong những địa điểm du lịch Đà Lạt được rất nhiều du khách lựa chọn khi tham quan tuyến đường theo hướng phía Nam thành phố Đà Lạt.<img class=\"mt-2\" src=\"https://vyctravel.com/libs/upload/ckfinder/images/da_lat/vuon%20thuong%20uyen%20bay%204.jpg\"></p><p>- <strong> Thác Pongour:</strong>Phong cảnh thiên nhiên hoang sơ, tuyệt đẹp của Tràng An đã đượcUNESCO công nhận là di sản thiên nhiên và di sản văn hóa thế giới.Khung cảnh nơi đây được tạo nên từ dòng sông chạy uốn lượn qua các dãy núi đá vôi, tạo thành vô vàn những hang động tự nhiên huyền ảo, kỳ bí.<img class=\"mt-2\" src=\"https://dulichtoday.vn/wp-content/uploads/2019/01/thac-pongour-da-lat.jpg\"></p><p>- <strong> Thác Datanla: </strong>Nằm giữa cung đèo Prenn, thác Datanla được biết đến là một trong những con thác vẫn còn giữ được nét đẹp hoang sơ. Nước đổ xuống từng tầng bậc đá chênh nhau khiến con thác trông từ xa như một tấm lụa trắng ngần giữa trời. Khi tham quan thác Datanla, du khách có cơ hội được trải nghiệm việc di chuyển bằng xe trượt, luồn lách giữa rừng thông và hoa cỏ thiên nhiên tươi đẹp. Đây cũng là một trong những địa điểm du lịch được rất nhiều du khách lựa chọn khi tham gia tour nội thành Đà Lạt 1 ngày.<img class=\"mt-2\" src=\"https://happydaytravel.com/wp-content/uploads/2019/03/image5-compressed.jpg\"></p><p>- <strong> Thiền viện Trúc Lâm: </strong>Thiền Viện Trúc Lâm Đà Lạt là ngôi thiền viện theo thiền phái Trúc Lâm Yên Tử được xây dựng tại Đà Lạt và là thiện viện lớn nhất Việt Nam hiện nay. Bên cạnh đó ngôi thiền viện này cũng là một trong những điểm tham quan thu hút nhiều du khách nhất tại Đà Lạt.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/08/thien-vien-truc-lam-phuong-hoang-da-lat.jpg\"></p><p>Tọa lạc trên núi Phụng Hoàng, phia dưới là hồ Tuyền Lâm quanh năm thơ mộng và cách trung tâm thành phố Đà Lạt 5km về hướng Nam. Thiền Viện Trúc Lâm Đà Lạt được khởi công xây dựng từ đầu năm 1993 đến cuối năm 1994 thì hoàn thành các giải đoạn cơ bản. Bản thiết kế của ngôi thiền viện có sự giúp đỡ của kiến trúc sư nổi tiếng Việt Nam cũng như thế giới, kiến trúc sư Ngô Viết Thụ và hai kiến trúc sư khác là triến trúc sư Vũ Xuân Hùng và Trần Đức Lộc. Tất cả ý tưởng ban đầu đều do hòa thưởng Thích Thanh Từ quy hoạch và kêu gọi phật tử mọi miền đóng góp.</p><p>Tổng quan Thiền Viện Trúc Lâm được chia làm 3 khu vực chính, đó là khu vực ngoại viện bao gồm khuôn viên cây cảnh, chánh điện, sân đậu xe và hồ Tịnh Tâm. Khu vực nội viện tăng tọa lạc bên phải trước chánh điện, đây là nơi tu tấp của các Nam tăng du khách thập phương không được phép vào tham quan. Khu vực nội viện Ni nằm bên phải chánh điện, phía trên nội viện tăng, đây là khu vực tu tập của các nữ chư tăng và cũng không có du khách thập phương tham quan. Thiền Viện Trúc Lâm được sáng lập bởi hòa thượng Thích Thanh Từ và ông cũng chính là trụ trì đầu tiên của ngôi Thiền Viện này, những năm gần đây do tuổi già sức yếu, hòa thượng Thích Thanh Từ đã trở về Thiện Viện Trúc Lâm Vũng Tàu để an dưỡng và giao trọng trách lại cho hòa thượng Thích Thông Phương quản lý, đây cũng là đệ tử thân cận nhất của ngài Thích Thanh Từ.</p><p>- <strong> Nhà thờ Con Gà: </strong>Nhà thờ con Gà Đà Lạt còn có tên gọi khác là nhà thờ chánh tòa, đây là nhà thờ công giáo lớn nhất tại thành phố Đà Lạt hiện nay. Ngoài chức năng là một nhà thờ tôn giáo, nơi này còn là một điểm tham quan du lịch hấp dẫn đối với rất nhiều du khách gần xa.<img class=\"mt-2\" src=\"https://du-lich-da-lat.com/wp-content/uploads/2018/02/nha-tho-con-ga.jpg\"></p><p>Tọa lạc tại đường Trần Phú trung tâm của thành phố Đà Lạt, nhà thờ con Gà là một trong những công trình kiến trúc cổ xưa đầu tiên được người Pháp xây dựng tại Đà Lạt.</p><p>Tổng quan về kiến trúc của nhà thờ con Gà theo trường phái Roma ở Châu Âu, đây là một dạng kiến trúc tiêu biểu cho trường phái kiến trúc Roman. Móng của nhà thờ con Gà được thiết kế theo hình chữ thập dài 65m, chiều rộng 14, và tháp chuông phía trước nhà thờ cao 47m, trên đỉnh của tháp chuông có gắn một bức tượng Gà trống Goloa biểu tượng của nước Pháp cao 60cm, đây cũng chính là lý do nhà thờ này lại có tên gọi là nhà thờ con Gà. Ngoài ra còn một điều đặc biệt hơn nữa, nếu đứng trên tháp chuông của nhà thờ bạn có thể nhìn được toàn cảnh thành phố Đà Lạt, núi Langbiang và các khu vực lân cận.Bên trong thánh đường của nhà thờ được chia làm 3 gian, gian ở giữa được sắp xếp các dãy bàn ghế cầu nguyện, chánh điện và hai bên hông nhà thờ được thiết kế các bàn ghế phụ và lối đi. Trên trần nhà giáp mái là những tấm kính màu, những tấm kính này đều được đặt mua trực tiếp từ Pháp mang về phục vụ cho việc xây dựng nhà thờ, anh sáng chiếu qua những tấm kính làm cho khung cảnh của thánh đường thêm phần mở ảo, đẹp mắt.Mỗi dịp giáng sinh về, nhà thờ chánh tòa Đà Lạt lại lung linh huyền ảo, thu hút hàng ngàn du khách đến tham dự. Những ngày thường bạn có thể ghé thăm nhà thờ miễn phí, nếu may mắn đi đúng vào thời gian làm lễ, bạn có thể vào thẳng khu thánh đường để chiêm ngưỡng toàn bộ kiến trúc bên trong của nhà thờ.</p><p>- <strong> Trường cao đẳng sư phạm Đà Lạt: </strong>Được người Pháp xây dựng và thành lập vào năm 1927, trường cao đẳng sư phạm Đà Lạt đến nay vẫn là một trong những ngôi trường có kiến trúc đẹp nhất Việt Nam. Vẻ đẹp thơ mộng đậm chất châu Âu cổ điển của nơi đây thu hút vô vàn lượng du khách ghé thăm mỗi năm. Ngoài ra, đây cũng là một trong những biểu tượng nổi tiếng mỗi khi ai đó nhắc về Đà Lạt.<img class=\"mt-2\" src=\"https://toquoc.mediacdn.vn/2018/11/30/truong-cao-dang-su-pham-da-lat-noi-u-hoai-cua-thieu-nu-xinh-dep-ngu-quen-tren-cao-nguyen-mo-suong5-1543588050889764954102.jpg\"></p><p>- <strong> Bảo tàng Lâm Đồng: </strong>Nếu bạn là người yêu thích những giá trị văn hóa của Đà Lạt, thì Bảo tàng Lâm Đồng là nơi thích hợp dành cho bạn. Nơi đây hiện lưu giữ rất nhiều những hiện vật truyền thống cũng như những vẻ đẹp văn hóa bao đời nay của người dân Lâm Đồng.<img class=\"mt-2\" src=\"http://vietnamtourism.gov.vn/images/2016/anhInternet/TrienlammythuatDNB.jpg\"></p><p>- <strong> Vườn hoa thành phố: </strong>Là điểm đến nổi tiếng bậc nhất của thành phố Đà Lạt, bên cạnh hồ Xuân Hương trữ tình là vườn hoa của thành phố. Rất nhiều loại hoa đẹp, hoa quý của Đà Lạt đều rực rỡ khoe sắc ở nơi đây, mang đến cho thành phố những mảng màu tươi sáng và tuyệt sắc. Bên trong vườn hoa, rất nhiều tiểu cảnh được dựng lên bởi bàn tay khéo léo của con người, giúp du khách lưu lại những khoảnh khắc ấn tượng và đẹp nhất.<img class=\"mt-2\" src=\"https://dalattrongtoi.com/media/upload/images/bai-viet/V%C6%B0%E1%BB%9Dn%20Hoa%20Th%C3%A0nh%20Ph%E1%BB%91%20%C4%90%C3%A0%20L%E1%BA%A1t%20(2).jpg\"></p><p>- <strong> Hồ Than Thở: </strong>Đẹp như bức thủy mặc ai lỡ đánh rơi, hồ Than Thở luôn là biểu tượng đẹp khi nhắc đến Đà Lạt. Người dân sinh sống nơi đây còn gọi hồ bằng một cái tên khác thanh khiết hơn là - hồ Sương Mai. Sở dĩ hồ mang cái tên như thế vì mỗi buổi sáng nơi đây chẳng khác chi chốn tiên cảnh, khi những làn sương bảng lảng vẫn chưa tan, rong chơi trên mặt nước, tạo nên nét đẹp bồng bềnh đầy hư ảo. Đến với hồ Than Thở, du khách còn có cơ hội tìm hiểu về những câu chuyện gắn với địa danh này.<img class=\"mt-2\" src=\"https://dulichkhampha24.com/wp-content/uploads/2019/11/ho-than-tho-da-lat-1.jpg\"></p><p>- <strong> Núi Langbiang: </strong>Ai đến Đà Lạt mà chưa một lần muốn ghé đến Langbiang? Là đỉnh núi cao nhất Đà Lạt, từ nơi đây, bạn có thể thu vào tầm mắt toàn cảnh của phố núi, ngẩn ngơ trước vẻ đẹp hòa quyện của đồi núi và mây trời. Đến Đà Lạt, ghé thăm đỉnh Langbiang, bạn còn có cơ hội được biết về câu chuyện tình đầy thơ mộng nhưng cũng rất bi thương của chàng Lang và nàng Biang khi xưa.<img class=\"mt-2\" src=\"https://dalatpalace.vn/wp-content/uploads/2019/09/langbiang-o-dau-1024x500.jpg\"></p><p>- <strong>Thung Lũng Tình Yêu: </strong>Ngay từ cái tên cũng đã phần nào thể hiện được cái thơ, cái tình tứ của nơi này. Tọa lạc cách trung tâm thành phố tầm 7km, Thung lũng Tình Yêu là địa điểm thơ mộng bậc nhất xứ núi mà du khách, đặc biệt là các cặp đôi không nên bỏ qua. Đến nơi đây, ngoài muôn vàn những loài hoa đẹp, du khách còn có cơ hội chiêm ngưỡng và lưu lại những khoảnh khắc bên những tiểu cảnh xinh đẹp tượng trưng cho tình yêu đôi lứa.<img class=\"mt-2\" src=\"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2015/12/thung-lung-tinh-yeu.png\"></p></div>"
+    }
+  ],
+  "bookings_tour": [
+    {
+      "id": "39229d98-3317-482f-9d8a-7e7c523e7cb2",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "8",
+      "nameTour": "INCHEON - Hàn Quốc - 4 ngày 2 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 18000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 18000000,
+      "time": 1588346486297,
+      "timeChose": 1613667600000,
+      "status": "paid"
+    },
+    {
+      "id": "f5ca5384-71fa-494d-ab71-1d129855f2ef",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "9",
+      "nameTour": "PHUKET - Thái Lan - 4 ngày 3 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 12000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 12000000,
+      "time": 1588346717871,
+      "timeChose": 1609434000000,
+      "status": "paid"
+    },
+    {
+      "id": "695283fe-138f-4d29-877d-db1905e31773",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "3",
+      "nameTour": "Đà Lạt - Việt Nam - 3 ngày 2 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 6000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 6000000,
+      "time": 1588525725881,
+      "timeChose": 1642093200000,
+      "status": "cancelled"
+    },
+    {
+      "id": "4e71c852-ce1e-4641-b52c-43e71c4527a7",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "9",
+      "nameTour": "PHUKET - Thái Lan - 4 ngày 3 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 12000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 12000000,
+      "time": 1588661574656,
+      "timeChose": 1612112400000,
+      "status": "paid"
+    },
+    {
+      "id": "979cc7e5-9e59-46ae-8de9-8005a4fb7436",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "10",
+      "nameTour": "BALI - INDONESIA - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 15000000,
+      "priceNormalChildrenTicker": 11250000,
+      "sumPrice": 26250000,
+      "time": 1588663271891,
+      "timeChose": 1612976400000,
+      "status": "paid"
+    },
+    {
+      "id": "955049e7-3fec-4f84-9fb9-3c6628c59bf6",
+      "userID": "ed83dc4b-0d5f-47cd-a26e-60565c3aeda4",
+      "userName": "anh anh",
+      "tourID": "10",
+      "nameTour": "BALI - INDONESIA - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 15000000,
+      "priceNormalChildrenTicker": 11250000,
+      "sumPrice": 26250000,
+      "time": 1588663354066,
+      "timeChose": 1645722000000,
+      "status": "paid"
+    },
+    {
+      "id": "3870e0bb-fd2c-4761-aa37-9326c3c5af3f",
+      "userID": "d19ebd4d-aed8-4fbe-afc4-ee39af28b6bc",
+      "userName": "nguyễn  bao",
+      "tourID": "9",
+      "nameTour": "PHUKET - Thái Lan - 4 ngày 3 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 12000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 12000000,
+      "time": 1589542984191,
+      "timeChose": 1595610000000,
+      "status": "paid"
+    },
+    {
+      "id": "fb5cb40a-8b2b-48eb-b3db-02d0ae5b13c5",
+      "userID": "d19ebd4d-aed8-4fbe-afc4-ee39af28b6bc",
+      "userName": "nguyễn  bao",
+      "tourID": "14",
+      "nameTour": "Đà Lạt - Việt Nam - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 2,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 8000000,
+      "priceNormalChildrenTicker": 3000000,
+      "sumPrice": 11000000,
+      "time": 1589543395877,
+      "timeChose": 1633280400000,
+      "status": "paid"
+    },
+    {
+      "id": "00037e8f-0a99-43c6-97b6-1aae132f5819",
+      "userID": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "userName": "abc abc",
+      "tourID": "8",
+      "nameTour": "INCHEON - Hàn Quốc - 4 ngày 2 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 18000000,
+      "priceNormalChildrenTicker": 13500000,
+      "sumPrice": 31500000,
+      "time": 1589543490066,
+      "timeChose": 1613667600000,
+      "status": "paid"
+    },
+    {
+      "id": "73ea0d63-b3bb-4b0f-ab3a-a7e72524d34e",
+      "userID": "d92391e3-fef5-48b3-b73c-82589450598e",
+      "userName": "abc abc",
+      "tourID": "7",
+      "nameTour": "CAO HÙNG - Đài Loan  - 4 ngày 2 đêm",
+      "numberOfTickerNormal": 2,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 24000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 24000000,
+      "time": 1589543503668,
+      "timeChose": 1596067200000,
+      "status": "paid"
+    },
+    {
+      "id": "5d376fa8-ee82-49d0-9b78-5e023ae37df9",
+      "userID": "bbd337b1-3e37-44ee-b929-7ceb1e15ed1a",
+      "userName": "nguyen vu",
+      "tourID": "10",
+      "nameTour": "BALI - INDONESIA - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 15000000,
+      "priceNormalChildrenTicker": 11250000,
+      "sumPrice": 26250000,
+      "time": 1589543534408,
+      "timeChose": 1612976400000,
+      "status": "paid"
+    },
+    {
+      "id": "86476f3e-d93c-459a-b486-3aa36b90deb2",
+      "userID": "bbd337b1-3e37-44ee-b929-7ceb1e15ed1a",
+      "userName": "nguyen vu",
+      "tourID": "3",
+      "nameTour": "Đà Lạt - Việt Nam - 3 ngày 2 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 6000000,
+      "priceNormalChildrenTicker": 4500000,
+      "sumPrice": 10500000,
+      "time": 1589543552965,
+      "timeChose": 1611334800000,
+      "status": "paid"
+    },
+    {
+      "id": "a315b9fc-cc14-430e-8d69-1c2ad45108cd",
+      "userID": "bbd337b1-3e37-44ee-b929-7ceb1e15ed1a",
+      "userName": "nguyen vu",
+      "tourID": "1",
+      "nameTour": "Ninh Bình - Việt Nam - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 5000000,
+      "priceNormalChildrenTicker": 3750000,
+      "sumPrice": 8750000,
+      "time": 1589543564030,
+      "timeChose": 1614877200000,
+      "status": "paid"
+    },
+    {
+      "id": "1dceaf35-dfbd-424f-b219-cc113b8f7041",
+      "userID": "5ae58e3a-4761-4245-9c15-14815a7df4db",
+      "userName": "nguyenanh vu",
+      "tourID": "10",
+      "nameTour": "BALI - INDONESIA - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 1,
+      "priceNormalTicker": 15000000,
+      "priceNormalChildrenTicker": 11250000,
+      "sumPrice": 26250000,
+      "time": 1589543799008,
+      "timeChose": 1612976400000,
+      "status": "paid"
+    },
+    {
+      "id": "1e133e0f-9c30-4439-9871-ae55756549e6",
+      "userID": "5ae58e3a-4761-4245-9c15-14815a7df4db",
+      "userName": "nguyenanh vu",
+      "tourID": "10",
+      "nameTour": "BALI - INDONESIA - 5 ngày 4 đêm",
+      "numberOfTickerNormal": 1,
+      "numberOfChildrenTicker": 0,
+      "priceNormalTicker": 15000000,
+      "priceNormalChildrenTicker": 0,
+      "sumPrice": 15000000,
+      "time": 1589595171484,
+      "timeChose": 1603213200000,
+      "status": "paid"
+    }
+  ]
+}

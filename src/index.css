@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+.dropdown > .dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+  pointer-events: none;
+}
+.jodit_tooltip {
+  display: none;
+}
+
+.list-image {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+.list-image > li {
+  list-style: none;
+}
+.list-item {
+  list-style: none;
+}
+.customer .excerpt .list-item li i {
+  margin: 3px 5px 0 0;
+}
+.customer .excerpt .list-image li {
+  width: 15%;
+  float: left;
+  margin-bottom: 1%;
+  height: 80px;
+  display: block;
+  background-color: #fff;
+  text-align: center;
+  line-height: 80px;
+}
+.customer .excerpt .list-image li img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px) {
+  #fooderUl {
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    margin-bottom: 0;
+    width: 100%;
+    list-style: none;
+    justify-content: space-around;
+  }
+}

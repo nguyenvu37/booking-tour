@@ -1,0 +1,139 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #ecf0f5;
+}
+
+.title-tour {
+  margin-left: -15px;
+}
+
+.title-tour .page-title {
+  color: #003c71;
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.detail-tour {
+  background-color: #fff;
+  /* margin-left: 15px; */
+}
+
+.img-capital img {
+  height: 400px;
+}
+
+.info-journeys span {
+  font-size: 1.2rem;
+}
+.detail-tour .img-overview .img-capital img {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (min-width: 1200px) {
+  .detail-tour .img-overview .img-capital img {
+    min-width: 760px;
+    min-height: 506px;
+  }
+}
+
+.detail-tour .img-overview .img-capital:hover {
+  animation: crescendo 0.5s alternate infinite ease-in;
+}
+
+@keyframes crescendo {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.02);
+  }
+}
+
+.detail-tour .img-overview img {
+  width: 100% !important;
+}
+
+.detail-tour .img-overview .info-journeys {
+  background-color: #77869587;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid gray;
+}
+
+.form-advisory {
+  border: 1px solid #68686854;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
+
+.form-advisory form button {
+  width: 100%;
+}
+
+/* .info-price .desktop-booking-form {
+    position: relative;
+} */
+
+/* .desktop-booking-form .booking-form {
+  background-color: #fff;
+  position: fixed;
+  top: 78px;
+  left: 66%;
+  display: none;
+} */
+
+.desktop-booking-form .booking-form {
+  background-color: #fff;
+  position: fixed;
+  transition: all 0.3s;
+  /* right: %; */
+  left: 66%;
+  /* display: none; */
+  z-index: auto;
+}
+
+@media only screen and (max-width: 1200px) {
+  .desktop-booking-form .booking-form {
+    left: 57%;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .desktop-booking-form .booking-form {
+    position: unset;
+  }
+  .desktop-booking-form {
+    order: 1;
+  }
+}
+
+.totalPrice {
+  font-size: 1rem;
+}
+
+.tourItemCurrency {
+  font-size: 0.8rem;
+}
+
+.desktop-booking-form {
+  border-radius: 0.3rem;
+  font-size: 1rem;
+}
+
+.desktop-booking-form .DateCheckinText {
+  font-size: 0.8rem;
+}
+
+.minus-plus button {
+  width: 100%;
+}
+
+.minus-plus button i {
+  font-size: 0.8rem;
+}

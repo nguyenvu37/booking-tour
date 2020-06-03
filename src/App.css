@@ -1,0 +1,89 @@
+html,
+body {
+  height: 100%;
+  scroll-behavior: smooth;
+  transition: all 0.1s;
+  background-image: url("./image/background4.jpg");
+}
+
+.main-header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+  font-size: 20px;
+  max-height: 70px;
+}
+
+#root {
+  height: 100%;
+}
+
+.my-body {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+li a.char-before {
+  content: "| ";
+}
+
+ul li:first-child a.char-before::before {
+  content: "";
+}
+
+.content {
+  margin-top: 100px;
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+.shaw-dow-menu {
+  -webkit-box-shadow: -1px 4px 10px -2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 4px 10px -2px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 4px 10px -2px rgba(0, 0, 0, 0.75);
+}
+
+.image-bg:hover .black-warp {
+  display: block;
+}
+
+@media only screen and (max-width: 990) {
+  li a::before {
+    content: "-";
+  }
+}
+
+.color-footer {
+  background-color: #231f20;
+}
+
+.page-link:disabled,
+.page-link:disabled:hover {
+  background-color: #0000001f;
+  color: black;
+  text-decoration: line-through;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.white-placeholder::placeholder {
+  color: white;
+}
+
+.CartBtnPayment:hover {
+  box-shadow: 0 0 10px #d39e00;
+}
+.shadow {
+  box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+.all-iteam-inline-center {
+  align-items: center !important;
+}
